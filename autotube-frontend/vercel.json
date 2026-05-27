@@ -1,0 +1,7 @@
+{
+  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }],
+  "env": {
+    "REACT_APP_API_URL": "@autotube_api_url",
+    "REACT_APP_WS_URL": "@autotube_ws_url"
+  }
+}
