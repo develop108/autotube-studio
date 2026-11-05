@@ -2,7 +2,7 @@
 T: Skylight Bursts Under the Snow Load Over the Couch — Truckee, California
 LOC: The vaulted living room of a mountain home in Truckee, California: a sectional couch beneath a big rectangular skylight in a pine-plank ceiling, a stone fireplace, a TV playing cartoons, a coffee table with cereal bowls, windows showing two meters of fresh Sierra snow outside.
 ENV: Grey morning in February after a huge storm, -4°C outside, the skylight completely covered by snow so only a dim blue-white glow comes through, warm table lamps on, a quiet hum of the furnace.
-WHO: Ellie Novak, 6, white, messy blonde ponytail, pink unicorn-free plain pajamas, cross-legged on the couch under the skylight eating cereal; her dad Chris Novak, 38, brown beard, grey thermal shirt, plaid pajama pants, filming from the kitchen island.
+WHO: Ellie Novak, 6, white, messy blonde ponytail, pink plain flannel pajamas, cross-legged on the couch under the skylight eating cereal; her dad Chris Novak, 38, brown beard, grey thermal shirt, plaid pajama pants, filming from the kitchen island.
 ANI: Blue, the family's 4-year-old Australian Cattle Dog — speckled blue-grey coat with black patches, tan legs, a black mask over one eye, upright ears, lying on the rug by the couch.
 CAM: Chris films handheld from the kitchen island about five meters away, framing Ellie on the couch, the snow-covered skylight above her, and Blue on the rug.
 HOOK: 00:00–00:01: Lazy Saturday — Ellie giggles at cartoons, spoon in her mouth, as Chris says, "Snow day, kiddo." 00:01–00:02: Blue jumps up staring at the ceiling, barking sharply, and the skylight glass gives a loud splintering crack as a dark sag appears in the snow above it.
@@ -111,7 +111,7 @@ T: Garage Roof Gives Way Over the Car on Jack Stands — Syracuse, New York
 LOC: A detached two-car garage behind a house in Syracuse, New York: wooden trusses, a pegboard wall of tools, a work light, an old red pickup on jack stands with the hood up, a creeper board under it, a space heater glowing, the roof outside piled with nearly a meter of lake-effect snow.
 ENV: Night in January during a lake-effect storm, -10°C outside, harsh white work-light glare and orange space-heater glow inside, snow hissing against the windows, trusses creaking.
 WHO: Ray Delgado, 52, Puerto Rican American, heavyset, grey goatee, black beanie, grease-stained Carhartt coveralls, lying on a creeper under the truck; his son Marco, 19, black hoodie, filming from the workbench to show his dad's project.
-ANI: Bruno, Ray's 5-year-old Rottweiler — black-and-tan coat, broad head, docked-free natural tail, a thick leather collar, lying on a blanket near the heater.
+ANI: Bruno, Ray's 5-year-old Rottweiler — black-and-tan coat, broad head, natural undocked tail, a thick leather collar, lying on a blanket near the heater.
 CAM: Marco films handheld from the workbench, framing his father's legs sticking out from under the truck, the truss ceiling above and Bruno on his blanket.
 HOOK: 00:00–00:01: Ordinary — Ray's voice from under the truck: "Hand me the half-inch, Marco." 00:01–00:02: Bruno jumps up snarling at the ceiling, and a loud crack rings out as a truss above the truck splits and drops several centimeters.
 - Ray's legs stick out from under the truck; a ratchet clicks; Bruno lies by the heater.

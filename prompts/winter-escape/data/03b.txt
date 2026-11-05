@@ -110,7 +110,7 @@ AV: a cartoon dog digging like a machine, the child emerging clean and dry, a st
 T: Moose Crossing Saves the Kids From the Pavilion Roof — Breckenridge, Colorado
 LOC: A town park on the edge of Breckenridge, Colorado: a wooden picnic pavilion with a steep metal roof heaped with a thick snow load, picnic tables underneath, a playground nearby, ski runs striping the mountain behind, a willow-lined creek running along the park edge.
 ENV: Sunny afternoon in March, +2°C, intense high-altitude sun, snow on metal roofs softening and starting to creep, meltwater dripping, a clear cobalt sky.
-WHO: Jenna Morales, 34, Latina, dark ponytail under a grey beanie, white puffer jacket, filming; her twins Leo and Luna, 6 — Leo in a royal-blue jacket and red hat, Luna in a purple jacket with a unicorn-free plain knit hat — sitting at a picnic table under the pavilion eave eating snacks.
+WHO: Jenna Morales, 34, Latina, dark ponytail under a grey beanie, white puffer jacket, filming; her twins Leo and Luna, 6 — Leo in a royal-blue jacket and red hat, Luna in a purple jacket with a plain knit hat — sitting at a picnic table under the pavilion eave eating snacks.
 ANI: A cow moose — huge, dark-brown coat, pale grey-brown legs, long bulbous nose, big ears — stepping out of the creek willows toward the playground.
 CAM: Jenna films handheld from beside the pavilion, framing the twins at the picnic table under the eave and the willows in the background.
 HOOK: 00:00–00:01: Normal — the twins munch crackers at the picnic table, swinging their legs. 00:01–00:02: A cow moose crashes out of the willows barely ten meters away, grunting, and Jenna hisses "Kids, move! Come here, right now!"

@@ -272,7 +272,7 @@ AV: otters acting like cartoons or pets, a perfectly round CGI hole, the boy fal
 T: Grain-Bin Roof Snow Avalanches Toward the Farm Kids — Fargo, North Dakota
 LOC: A farmyard outside Fargo, North Dakota: tall corrugated steel grain bins with steep conical roofs, a machine shed with its big door open, a red tractor under snow, two kids building a snowman right beside the base of a bin.
 ENV: Sunny midday in March, +3°C, strong sun warming the heavy snow load on the metal roofs, meltwater dripping steadily off every bin edge and forming puddles in the tire ruts, a hard blue sky, intense glare off the flat snowfields that stretch to the horizon, and the soft wet snow crust starting to slump and glisten.
-WHO: Ella Johnson, 10, white, blonde braids, purple coat, pink snow pants; her brother Mason, 7, red snowsuit, black mittens; their father Brian Johnson, 42, tan Carhartt jacket, seed-company-free grey cap, filming from the machine shed door.
+WHO: Ella Johnson, 10, white, blonde braids, purple coat, pink snow pants; her brother Mason, 7, red snowsuit, black mittens; their father Brian Johnson, 42, tan Carhartt jacket, plain grey cap, filming from the machine shed door.
 ANI: Gus, the family's 6-year-old English Springer Spaniel — liver-and-white coat with ticking on the legs, long feathered ears, a green collar.
 CAM: Brian films handheld from the shed doorway, framing the kids beside the bin with their snowman, Gus sniffing nearby.
 HOOK: 00:00–00:01: Wholesome — the kids pat the snowman's head and Mason sticks in a carrot nose. 00:01–00:02: Gus starts barking and charges straight at them as a metallic scraping roar starts rolling down the bin's steep roof.
