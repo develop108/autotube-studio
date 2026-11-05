@@ -79,6 +79,21 @@ Every prompt: exactly 15 seconds, USA/Canada snow-and-ice locations, a calm natu
 73. [Mist-Ice Chunk Falls From the Gorge Trees — Niagara Falls, Ontario](#prompt-073)
 74. [Coyote Turns Back on the River Before the Ice Heaves — St. Marys River, Sault Ste. Marie, Ontario](#prompt-074)
 75. [Snow-and-Sand Slab Slides Down the Dune Climb — Sleeping Bear Dunes, Michigan](#prompt-075)
+76. [Thundersnow Lightning Splits the Shelter Tree — Rochester, New York](#prompt-076)
+77. [Samoyed Refuses the Snow Bridge on the Glacier — Matanuska Glacier, Alaska](#prompt-077)
+78. [Brittany Leaps the Gap First as the Ice Floe Breaks Away — Lake Erie, Catawba Island, Ohio](#prompt-078)
+79. [Gust Skates Her Across Glass Ice Toward Open Water — Abraham Lake, Alberta](#prompt-079)
+80. [Moose on the Highway Stops the Truck Before the Avalanche — Rogers Pass, British Columbia](#prompt-080)
+81. [Leonberger Pulls the Kids Off the Trampoline Before the Spruce Falls — Prince George, British Columbia](#prompt-081)
+82. [Ruffed Grouse Bursts From the Snow Before the Creek Gully Drop — Sun Peaks, British Columbia](#prompt-082)
+83. [Trumpeter Swans Reveal the Open Channel Under the Snow — Henrys Fork, Island Park, Idaho](#prompt-083)
+84. [Malinois Barks Him Off the Slope Before the Highmark Avalanche — Togwotee Pass, Wyoming](#prompt-084)
+85. [Caribou Herd Detours Around the Thin Ice — Happy Valley-Goose Bay, Labrador](#prompt-085)
+86. [Muskox Herd Moves Inland Before the Sea Ice Shoves Ashore — Nome, Alaska](#prompt-086)
+87. [Glacier Calving Shatters the Lake Ice Under the Skaters — Portage Lake, Alaska](#prompt-087)
+88. [Stuck in Glacial Silt as the Bore Tide Comes In — Turnagain Arm, Alaska](#prompt-088)
+89. [Ice Cave Ceiling Drops Behind Them in the Glacier — Mendenhall Glacier, Juneau, Alaska](#prompt-089)
+90. [Great Dane Yanks the Boy Off the Sidewalk as the Car Slides Down the Ice — Pittsburgh, Pennsylvania](#prompt-090)
 
 <a id="prompt-001"></a>
 ## Prompt 001 — Backyard Pond Rink Splits Under the Spin — Duluth, Minnesota
@@ -4203,4 +4218,829 @@ Hannah's purple jacket and Noah's red jacket stay; Maple's teal collar stays; th
 
 12. AVOID
 Plastic or waxy skin, airbrushed faces, doll eyes, animated or rubbery bodies, extra or fused fingers, warped limbs, morphing faces, changing outfits, shifting animal markings, CGI-looking snow, fake particle snow, glossy video-game ice, unnatural slow motion, cinematic music, title text, subtitles, watermarks, logos, lens dirt overlays, film grain filters, teal-orange grading, over-saturated colors, drone shots, impossible camera moves, perfect studio lighting, humans or animals floating, objects passing through each other, physics that reverses, professional rescue crews, uniforms, sirens, helicopters, staged hero poses, gore, blood or graphic injury. Also avoid: kids buried, a CGI landslide, the dog leaping unrealistically, saturated colors, slow motion.
+```
+
+<a id="prompt-076"></a>
+## Prompt 076 — Thundersnow Lightning Splits the Shelter Tree — Rochester, New York
+
+```text
+1. FORMAT
+Vertical 9:16 smartphone video, 1080x1920, 30fps, exactly 15.0 seconds, one continuous real-time take with no cuts, no slow motion, no speed ramps and no transitions. Native in-camera audio only — no music, no voice-over, no captions, no on-screen text, no logos, no watermark. It must read as a real clip filmed by an ordinary person in the moment and posted unedited.
+
+2. LOOK
+Late afternoon in January during a rare thundersnow storm, -3°C, dark purple-grey sky, thick wet snow falling in big clumps, occasional flashes lighting the clouds pink, rumbling thunder muffled by the snow. True-to-life smartphone color science: snow rendered bright but never clipped to flat white, with visible crystal sparkle and cool blue-gray shading inside footprints and drifts; skin tones natural with cold-flushed cheeks, nose tips and knuckles; subtle sensor noise in the shadows, mild phone HDR tone mapping, faint compression texture in falling snow. No cinematic grading, no teal-and-orange look, no added film grain, no vignette, no beauty filter.
+
+3. CAMERA
+Tyrell films handheld standing under the maple, framing Kiara and Duchess beside the bench with the snowy lawn and row houses behind them. Real person filming on a phone: the frame breathes and bobs with the operator's body, the grip shifts when they gasp, focus briefly pulses before locking onto the nearest face or animal, and the auto-exposure visibly brightens or darkens as the scene changes. During the crisis the framing becomes messy and partly misses the action for a moment before the operator recovers it. No cinematic dolly moves, no perfect composition, no impossible angles.
+
+4. LOCATION
+A city park in Rochester, New York: a wide snowy lawn, a huge old lone silver maple with a wooden bench beneath it, a playground behind, row houses along the park edge, heavy snow falling.
+
+5. CHARACTERS
+Tyrell Jackson, 16, Black, tall, grey hoodie under an open black puffer, red beanie; his little sister Kiara, 10, braids with beads under a purple knit hat, yellow coat; they are walking home and stop under the maple to wait out the heavy snow while Tyrell films. Duchess, the family's 5-year-old Golden Retriever — deep red-gold feathered coat, white muzzle hairs, a blue harness, on a leash in Kiara's mittened hand. Character consistency is locked: faces, body proportions, hairstyles, clothing colors, accessories and the animal's exact markings stay identical from the first frame to the last — no outfit changes, no face drift, no breed or coat changes.
+
+6. HOOK (00:00–00:02)
+00:00–00:01: Fun and weird — a pink flash lights the snow and Kiara laughs, "Thunder in snow? That's so weird!" 00:01–00:02: Duchess suddenly whines, spins and drags Kiara out from under the tree into the open lawn with all her strength, ignoring Tyrell's shouts.
+
+7. TIMELINE
+00:00–00:01 — Kiara laughs at the flash, brushing snow off her hat; Duchess stands stiff, ears flattened, under the maple.
+00:01–00:02 — Duchess spins and lunges out from under the tree, dragging Kiara by the leash onto the open lawn.
+00:02–00:03 — Tyrell follows, annoyed: "Duchess! Kiara, hold her!" The camera bounces after them through the snow.
+00:03–00:04 — They are fifteen meters from the tree when a blinding white flash and an instant ear-splitting crack hit.
+00:04–00:05 — The lightning strikes the maple; bark explodes off the trunk in a shower of splinters and steam.
+00:05–00:06 — The frame blows out white for a split second, then recovers; snow falling everywhere.
+00:06–00:07 — A huge limb splits from the trunk and crashes down onto the bench where they had been standing.
+00:07–00:08 — Steam rises from a long raw scar down the trunk; bark fragments smoke on the snow.
+00:08–00:09 — Kiara screams and grabs Tyrell; Duchess presses flat against their legs, trembling.
+00:09–00:10 — Tyrell, ears ringing, voice shaking: "Yo… yo… we were just under there."
+00:10–00:11 — The camera zooms slightly toward the tree: the bench crushed, the trunk split, bark scattered across the snow.
+00:11–00:12 — Thunder rumbles away across the sky; snow keeps falling in heavy clumps.
+00:12–00:13 — Kiara, crying: "Duchess pulled me! She wouldn't stop pulling!"
+00:13–00:14 — Tyrell crouches and holds the Golden's face: "You knew. How'd you know?"
+00:14–00:15 — Clip ends on the siblings hugging the dog in the open field as smoke drifts up from the split maple.
+
+8. SOUND DESIGN
+Heavy muffled snowfall, a distant rolling rumble of thunder, the Golden's high whine, crunching boots, Tyrell's annoyed shout, an instant deafening lightning crack that clips the mic, splintering bark, a crashing limb, hissing steam, Kiara's scream, thunder rolling away, heavy breathing. Every sound is diegetic and captured by the phone's built-in microphone from the filming position. Absolutely no music, no score, no risers, no whooshes, no cinematic bass hits.
+
+9. AUDIO REALISM
+Recorded as one live phone mic track: ambient cold-air quietness first (which makes the sudden event hit harder), then a real transient spike, mic overload crackle, and the room or landscape ringing out afterwards. Off-axis sounds are duller, close sounds are sharper. Exhales and gasps are audible, the animal's panting, barking, snorting or calls are species-true, and every footstep or impact lines up with the picture to the frame. Speech is unscripted, imperfect, with stumbles, swearing replaced by real-sounding exclamations, and natural accents for the region.
+
+10. 4K/8K VISUAL QUALITY ENHANCEMENT
+Even if the render is 1080p, it must deliver a premium 4K/8K-grade feel: razor-sharp micro-detail in the Golden's red-gold feathered coat clumped with wet snow, exploding maple bark and raw pale splintered wood, steam rising from the scar, big wet snowflakes, beads in Kiara's braids; individual snowflakes, ice crystals and spindrift resolved in the air; realistic skin with pores, fine facial hair, cold-reddened cheeks, chapped lips and visible breath vapor; true fabric weave on knit hats, nylon shells, fleece and denim; accurate contact shadows under boots, paws and hooves; natural depth with gentle phone-lens background falloff; clean edges with no oversharpening halos, no smearing, no waxy smoothing and no noise-reduction mush. Lighting is physically motivated by the real sky, sun and practical light sources only, with correct specular highlights on ice and wet surfaces. Targeting Seedance 2.5-level realism through Seedance 2.0.
+
+11. REALISM AND CONTINUITY
+Kiara's purple hat and yellow coat stay; Tyrell's red beanie stays; Duchess's blue harness stays on; the split tree and crushed bench remain; snowfall continues heavily. Physics must be correct: snow and ice crack, slide and fall with real weight, momentum and debris that scatters and settles; near-freezing water looks dark, heavy and slushy; nothing floats, morphs or reverses. Human anatomy is correct at all times — five fingers per hand, natural joint limits, believable balance, real slips, stumbles and recoveries. Animal behavior is species-accurate in gait, ear and tail signals, vocalizations and reactions; the animal never acts like a trained movie actor or a cartoon. Footprints, paw prints and disturbed snow persist once made. Breath vapor appears with exhales in the cold. Time of day, light direction and weather stay consistent for all 15 seconds.
+
+12. AVOID
+Plastic or waxy skin, airbrushed faces, doll eyes, animated or rubbery bodies, extra or fused fingers, warped limbs, morphing faces, changing outfits, shifting animal markings, CGI-looking snow, fake particle snow, glossy video-game ice, unnatural slow motion, cinematic music, title text, subtitles, watermarks, logos, lens dirt overlays, film grain filters, teal-orange grading, over-saturated colors, drone shots, impossible camera moves, perfect studio lighting, humans or animals floating, objects passing through each other, physics that reverses, professional rescue crews, uniforms, sirens, helicopters, staged hero poses, gore, blood or graphic injury. Also avoid: cartoon lightning bolts, sparks or fire, anyone being struck, the dog glowing, a CGI storm, cinematic music.
+```
+
+<a id="prompt-077"></a>
+## Prompt 077 — Samoyed Refuses the Snow Bridge on the Glacier — Matanuska Glacier, Alaska
+
+```text
+1. FORMAT
+Vertical 9:16 smartphone video, 1080x1920, 60fps, exactly 15.0 seconds, one continuous real-time take with no cuts, no slow motion, no speed ramps and no transitions. Native in-camera audio only — no music, no voice-over, no captions, no on-screen text, no logos, no watermark. It must read as a real clip filmed by an ordinary person in the moment and posted unedited.
+
+2. LOOK
+Clear cold afternoon in March, -12°C, brilliant sun, intense glare off the snow, deep blue shadows inside crevasse sags, crystal-clear air. Looks exactly like an unedited clip straight off a modern iPhone or Pixel: auto white balance drifting slightly cooler in shade and warmer near artificial light, highlight roll-off on sunlit snow, honest contrast, occasional lens flare only when a real light source enters frame, natural softness at the extreme edges of the lens. Skin shows real texture, redness from the cold and dry, chapped lips. Nothing stylized, nothing graded, nothing glossy.
+
+3. CAMERA
+Kelsey films handheld from behind, framing Ryan and Yuki walking across the glacier toward a faint sag in the snow. Imperfect amateur camerawork that sells authenticity: slight tilt, uneven headroom, quick reframing, a moment of the camera pointing at the snow or sky while the operator moves, then snapping back to the subject. Autofocus locks on the closest high-contrast object and occasionally racks between foreground snowflakes and the subject. Motion blur appears naturally on fast movement at a 1/60–1/120 phone shutter.
+
+4. LOCATION
+The lower Matanuska Glacier northeast of Anchorage, Alaska: a rolling white glacier surface of snow-covered blue ice, dark medial moraine stripes, small crevasses showing as faint sagging lines in the snow, the Chugach Mountains rising on both sides.
+
+5. CHARACTERS
+Ryan Mitchell, 32, white, tall, brown beard, black helmet, red shell jacket, crampons and an ice axe, walking ahead; his wife Kelsey Mitchell, 30, white, blonde ponytail under a white helmet, light-blue jacket, filming. Yuki, their 4-year-old Samoyed — fluffy pure-white coat, black lips curled in a "smile," dark eyes, plumed tail over her back, a bright orange harness on a short rope attached to Ryan's harness. Character consistency is locked: faces, body proportions, hairstyles, clothing colors, accessories and the animal's exact markings stay identical from the first frame to the last — no outfit changes, no face drift, no breed or coat changes.
+
+6. HOOK (00:00–00:02)
+00:00–00:01: Adventurous — Ryan walks ahead, saying, "Look at that blue in the cracks!" 00:01–00:02: Yuki suddenly plants all four paws and leans back against her rope, barking, yanking Ryan to a stop right at the edge of a faint sag in the snow.
+
+7. TIMELINE
+00:00–00:01 — Ryan walks toward a faint sag in the snow; crampons crunch; Yuki trots at the end of her short rope.
+00:01–00:02 — Yuki plants her paws and leans back hard, barking; the rope jerks Ryan to a stop.
+00:02–00:03 — Ryan turns: "Yuki, come on—" He takes one more step; his crampon punches through the snow.
+00:03–00:04 — His leg plunges thigh-deep into a hole; blue darkness shows beneath the snow bridge.
+00:04–00:05 — Kelsey screams "Ryan! Crevasse!" The camera shakes.
+00:05–00:06 — Yuki digs in, pulling backward, her rope taut; Ryan grabs his ice axe and drives it into the snow behind him.
+00:06–00:07 — The snow bridge collapses around his leg, revealing a narrow blue-black crevasse dropping into darkness.
+00:07–00:08 — Ryan hauls himself back with the axe while Yuki keeps pulling, claws scraping on the hard snow.
+00:08–00:09 — He rolls onto the solid snow beside the hole, his leg dangling briefly over the gap, then free.
+00:09–00:10 — Kelsey reaches him and grabs his harness loop, pulling him farther back.
+00:10–00:11 — The camera points into the crevasse: deep translucent blue walls fading to black, a chunk of snow tumbling in.
+00:11–00:12 — Ryan lies on his back, gasping: "She stopped me. She stopped me on the edge."
+00:12–00:13 — Yuki licks his face, her white fur dusted with snow crystals.
+00:13–00:14 — Kelsey, crying and laughing: "Good girl, Yuki, good girl!"
+00:14–00:15 — Clip ends on the Samoyed sitting proudly beside the dark crevasse opening, smiling her Samoyed smile.
+
+8. SOUND DESIGN
+Crampons crunching, wind over the glacier, the Samoyed's sharp barks, the rope snapping taut, a hollow crunch of a snow bridge collapsing, Kelsey's scream, the ice axe biting, claws scraping hard snow, snow chunks falling and echoing faintly inside the crevasse, heavy breathing. Every sound is diegetic and captured by the phone's built-in microphone from the filming position. Absolutely no music, no score, no risers, no whooshes, no cinematic bass hits.
+
+9. AUDIO REALISM
+Authentic sound capture: the stillness of a snowy place (soft, dead acoustics because snow absorbs sound), distant natural background noise appropriate to the location, then sudden loud real-world sounds with proper attack and decay. The phone's noise suppression subtly pumps after loud sounds. People speak in quick fragments, breathing hard; the animal's sounds are recorded close and raw. No sweeteners, no Foley that does not match the action, no reverb that does not match the space.
+
+10. 4K/8K VISUAL QUALITY ENHANCEMENT
+Even if the render is 1080p, it must deliver a premium 4K/8K-grade feel: razor-sharp micro-detail in the Samoyed's fluffy pure-white coat sparkling with snow crystals, deep translucent blue crevasse ice walls, sunlit glacier snow with sun cups, crampon spikes and an ice axe pick; individual snowflakes, ice crystals and spindrift resolved in the air; realistic skin with pores, fine facial hair, cold-reddened cheeks, chapped lips and visible breath vapor; true fabric weave on knit hats, nylon shells, fleece and denim; accurate contact shadows under boots, paws and hooves; natural depth with gentle phone-lens background falloff; clean edges with no oversharpening halos, no smearing, no waxy smoothing and no noise-reduction mush. Lighting is physically motivated by the real sky, sun and practical light sources only, with correct specular highlights on ice and wet surfaces. Targeting Seedance 2.5-level realism through Seedance 2.0.
+
+11. REALISM AND CONTINUITY
+Ryan's red jacket and black helmet stay; Yuki's orange harness and rope stay attached; the crevasse stays open; brilliant sun holds. Physics must be correct: snow and ice crack, slide and fall with real weight, momentum and debris that scatters and settles; near-freezing water looks dark, heavy and slushy; nothing floats, morphs or reverses. Human anatomy is correct at all times — five fingers per hand, natural joint limits, believable balance, real slips, stumbles and recoveries. Animal behavior is species-accurate in gait, ear and tail signals, vocalizations and reactions; the animal never acts like a trained movie actor or a cartoon. Footprints, paw prints and disturbed snow persist once made. Breath vapor appears with exhales in the cold. Time of day, light direction and weather stay consistent for all 15 seconds.
+
+12. AVOID
+Plastic or waxy skin, airbrushed faces, doll eyes, animated or rubbery bodies, extra or fused fingers, warped limbs, morphing faces, changing outfits, shifting animal markings, CGI-looking snow, fake particle snow, glossy video-game ice, unnatural slow motion, cinematic music, title text, subtitles, watermarks, logos, lens dirt overlays, film grain filters, teal-orange grading, over-saturated colors, drone shots, impossible camera moves, perfect studio lighting, humans or animals floating, objects passing through each other, physics that reverses, professional rescue crews, uniforms, sirens, helicopters, staged hero poses, gore, blood or graphic injury. Also avoid: Ryan falling into the crevasse, a CGI glacier, the dog with superhuman strength, cinematic music.
+```
+
+<a id="prompt-078"></a>
+## Prompt 078 — Brittany Leaps the Gap First as the Ice Floe Breaks Away — Lake Erie, Catawba Island, Ohio
+
+```text
+1. FORMAT
+Vertical 9:16 smartphone video, 1080x1920, 30fps, exactly 15.0 seconds, one continuous real-time take with no cuts, no slow motion, no speed ramps and no transitions. Native in-camera audio only — no music, no voice-over, no captions, no on-screen text, no logos, no watermark. It must read as a real clip filmed by an ordinary person in the moment and posted unedited.
+
+2. LOOK
+Windy afternoon in February, -2°C, a strong offshore wind building, grey sky, ice groaning, snow skittering across the surface. Documentary-real phone footage: exposure set by the phone's auto mode so snow sits just below clipping and shadows hold a little noise; colors are muted and natural, never saturated; breath vapor catches the light; snow surfaces show wind ripples, sastrugi, boot holes and blue shadow. No color grade, no filters, no artificial glow, no dreamy haze, no sharpening halos.
+
+3. CAMERA
+Tyler films handheld beside their sled of fishing gear, framing his father packing tip-ups with the shoreline behind him and Penny running around. Authentic handheld behavior throughout: micro-jitter from cold hands, breathing sway, footsteps transmitted into the frame, a brief autofocus hunt when the subject moves fast, exposure re-adjusting as the lens swings from bright snow to darker subjects, a 3–8 degree horizon tilt during the panic, and one fast whip-pan blur that resolves naturally. Standard phone main lens (about 26mm equivalent), no zoom pumping, no gimbal-smooth gliding, no drone-like motion.
+
+4. LOCATION
+The frozen western basin of Lake Erie off Catawba Island, Ohio: a wide flat expanse of snow-dusted ice dotted with ice-fishing shanties and tip-ups, a distant shoreline with cottages, South Bass Island on the horizon.
+
+5. CHARACTERS
+Dan Hoffman, 50, white, heavyset, grey beard, orange float suit, black knit hat; his son Tyler Hoffman, 22, slim, brown hair, camo float suit, filming as they pack up their fishing gear. Penny, Dan's 6-year-old Brittany spaniel — orange-and-white coat with freckled legs, a docked-free short tail, an orange collar, loose on the ice. Character consistency is locked: faces, body proportions, hairstyles, clothing colors, accessories and the animal's exact markings stay identical from the first frame to the last — no outfit changes, no face drift, no breed or coat changes.
+
+6. HOOK (00:00–00:02)
+00:00–00:01: Routine — Dan stacks tip-ups onto the sled, grumbling, "Wind's picking up, let's head in." 00:01–00:02: Penny barks once, sprints toward shore, and leaps over a dark crack that suddenly opens in the ice between the men and the shoreline.
+
+7. TIMELINE
+00:00–00:01 — Dan stacks tip-ups onto the sled; the wind gusts; Penny sniffs around the shanty.
+00:01–00:02 — Penny barks, sprints toward shore and leaps over a dark crack that has just opened in the ice.
+00:02–00:03 — Tyler shouts "Dad! The ice is breaking off!" The camera swings to the widening gap.
+00:03–00:04 — A strip of black water a meter wide separates them from the shore ice, growing with every gust.
+00:04–00:05 — Penny stands on the far side barking, running back and forth along the edge.
+00:05–00:06 — Dan drops the tip-ups: "Go, go, jump!" They run toward the narrowest point of the crack.
+00:06–00:07 — Tyler leaps across; the camera blurs over black water and lands on the far side.
+00:07–00:08 — Dan jumps; his boot lands on the edge and slips; Tyler grabs his float suit collar and hauls.
+00:08–00:09 — Dan scrambles onto the solid shore ice on his knees, gasping.
+00:09–00:10 — They turn: the floe they were on, with the shanty and sled, is drifting slowly away into the lake.
+00:10–00:11 — The gap widens to three meters, then five; the shanty rocks slightly on the drifting slab.
+00:11–00:12 — Penny jumps on Dan, licking his face, whining.
+00:12–00:13 — Dan, breathless: "She went first. She knew where to jump."
+00:13–00:14 — Tyler pans to the drifting floe — the sled and tip-ups sitting abandoned on it.
+00:14–00:15 — Clip ends on the floe drifting away toward the open lake as Penny barks at it.
+
+8. SOUND DESIGN
+Wind gusting across the ice, the sled's plastic scraping, tip-up flags flapping, the Brittany's bark and running paws, a deep crack and grinding ice, water sloshing in the gap, boots pounding, heavy breathing, Dan's shouts, the shanty creaking on the drifting floe. Every sound is diegetic and captured by the phone's built-in microphone from the filming position. Absolutely no music, no score, no risers, no whooshes, no cinematic bass hits.
+
+9. AUDIO REALISM
+Phone-mic characteristics: slightly compressed dynamic range, low-frequency wind rumble whenever gusts hit the microphone, a brief digital clip and automatic gain duck on the loudest crash followed by natural recovery. Voices are close and uneven in level — the operator's voice is loudest and distorts a little when shouting, others sound farther and airier. Breathing, nylon jacket swish, boot crunch and the animal's vocalizations are spatially correct and perfectly in sync with on-screen action. Dialogue is short, overlapping, natural North American English, with real fear and real relief, never movie lines.
+
+10. 4K/8K VISUAL QUALITY ENHANCEMENT
+Even if the render is 1080p, it must deliver a premium 4K/8K-grade feel: razor-sharp micro-detail in the Brittany's orange-and-white freckled coat, snow-dusted lake ice with black open water in the gap, orange and camo float suits, a weathered plywood shanty; individual snowflakes, ice crystals and spindrift resolved in the air; realistic skin with pores, fine facial hair, cold-reddened cheeks, chapped lips and visible breath vapor; true fabric weave on knit hats, nylon shells, fleece and denim; accurate contact shadows under boots, paws and hooves; natural depth with gentle phone-lens background falloff; clean edges with no oversharpening halos, no smearing, no waxy smoothing and no noise-reduction mush. Lighting is physically motivated by the real sky, sun and practical light sources only, with correct specular highlights on ice and wet surfaces. Targeting Seedance 2.5-level realism through Seedance 2.0.
+
+11. REALISM AND CONTINUITY
+Dan's orange float suit and Tyler's camo suit stay; Penny's orange collar stays; the floe keeps drifting away with the shanty and sled; wind direction stays offshore. Physics must be correct: snow and ice crack, slide and fall with real weight, momentum and debris that scatters and settles; near-freezing water looks dark, heavy and slushy; nothing floats, morphs or reverses. Human anatomy is correct at all times — five fingers per hand, natural joint limits, believable balance, real slips, stumbles and recoveries. Animal behavior is species-accurate in gait, ear and tail signals, vocalizations and reactions; the animal never acts like a trained movie actor or a cartoon. Footprints, paw prints and disturbed snow persist once made. Breath vapor appears with exhales in the cold. Time of day, light direction and weather stay consistent for all 15 seconds.
+
+12. AVOID
+Plastic or waxy skin, airbrushed faces, doll eyes, animated or rubbery bodies, extra or fused fingers, warped limbs, morphing faces, changing outfits, shifting animal markings, CGI-looking snow, fake particle snow, glossy video-game ice, unnatural slow motion, cinematic music, title text, subtitles, watermarks, logos, lens dirt overlays, film grain filters, teal-orange grading, over-saturated colors, drone shots, impossible camera moves, perfect studio lighting, humans or animals floating, objects passing through each other, physics that reverses, professional rescue crews, uniforms, sirens, helicopters, staged hero poses, gore, blood or graphic injury. Also avoid: men falling into the lake, a CGI ice break, the floe moving unrealistically fast, dramatic music.
+```
+
+<a id="prompt-079"></a>
+## Prompt 079 — Gust Skates Her Across Glass Ice Toward Open Water — Abraham Lake, Alberta
+
+```text
+1. FORMAT
+Vertical 9:16 smartphone video, 1080x1920, 30fps, exactly 15.0 seconds, one continuous real-time take with no cuts, no slow motion, no speed ramps and no transitions. Native in-camera audio only — no music, no voice-over, no captions, no on-screen text, no logos, no watermark. It must read as a real clip filmed by an ordinary person in the moment and posted unedited.
+
+2. LOOK
+Bright, extremely windy afternoon in January, -15°C, gusts over 80 km/h screaming down the valley, sun glinting off polished ice, spindrift streaking across. Raw social-media realism: the image has the slightly flat, true-to-life tonality of a phone camera in cold weather, with believable dynamic range, crisp but not oversharpened detail, faint rolling-shutter skew on the fastest pans, and realistic white-balance shifts as the lens moves between bright snow and darker subjects. Faces and hands look lived-in and cold, never airbrushed.
+
+3. CAMERA
+Ellie films handheld from the shoreline, framing Zoe crouched on the glassy ice with the stranger photographer a few meters away and the open water farther out. Real person filming on a phone: the frame breathes and bobs with the operator's body, the grip shifts when they gasp, focus briefly pulses before locking onto the nearest face or animal, and the auto-exposure visibly brightens or darkens as the scene changes. During the crisis the framing becomes messy and partly misses the action for a moment before the operator recovers it. No cinematic dolly moves, no perfect composition, no impossible angles.
+
+4. LOCATION
+Abraham Lake in Alberta's Kootenay Plains: a vast sheet of perfectly clear black ice with frozen methane bubble stacks visible beneath, snow-free from relentless wind, towering Rockies on all sides, a band of open steaming water near a pressure crack in the middle of the lake.
+
+5. CHARACTERS
+Zoe Martin, 27, white, slight build, long brown hair under a teal beanie, black down jacket, no ice cleats, crouching to photograph bubbles; a stranger photographer, Raj Malhotra, 45, Indian Canadian, grey beard, red parka, ice cleats, tripod, nearby; Zoe's friend Ellie, filming from shore. A small band of bighorn sheep on the rocky shoreline slope behind the filmer, watching, plus a common raven gliding overhead. Character consistency is locked: faces, body proportions, hairstyles, clothing colors, accessories and the animal's exact markings stay identical from the first frame to the last — no outfit changes, no face drift, no breed or coat changes.
+
+6. HOOK (00:00–00:02)
+00:00–00:01: Stunning — Zoe crouches over the frozen bubbles, laughing, "This is unreal!" 00:01–00:02: A violent gust hits her back and she starts sliding across the frictionless ice on her knees, spinning, picking up speed toward the steaming open water.
+
+7. TIMELINE
+00:00–00:01 — Zoe crouches photographing bubbles; Raj adjusts his tripod; the wind roars.
+00:01–00:02 — A huge gust shoves Zoe; she slides on her knees across the glass ice, spinning.
+00:02–00:03 — She claws at the smooth ice with her gloves, finding nothing to grip; she screams.
+00:03–00:04 — Ellie shrieks "Zoe!" The camera shakes; the bighorn sheep lift their heads.
+00:04–00:05 — Raj abandons his tripod and runs on his ice cleats, crunching across the ice.
+00:05–00:06 — Zoe slides toward the steaming open water band, thirty meters, then twenty.
+00:06–00:07 — Raj dives, grabbing her jacket hood; his cleats scrape and dig into the ice.
+00:07–00:08 — They both slide a few meters before his cleats bite and they stop.
+00:08–00:09 — Zoe lies flat, gasping; the open water steams ten meters beyond her boots.
+00:09–00:10 — Raj, panting, holds her hood: "Stay low! Crawl with me!"
+00:10–00:11 — They crawl together back toward shore, his cleats biting with each push.
+00:11–00:12 — The gust eases; his tripod tumbles away across the ice in the wind.
+00:12–00:13 — They reach the snowy shoreline; Zoe collapses in the snow, shaking.
+00:13–00:14 — Ellie runs to them, the camera bouncing: "Oh my God, thank you, thank you!"
+00:14–00:15 — Clip ends on the bighorn sheep watching from the slope as Raj's tripod skitters away toward the open water.
+
+8. SOUND DESIGN
+Screaming wind overloading the mic, the hiss of jacket fabric sliding on glass-smooth ice, Zoe's screams, ice cleats crunching and scraping, the tripod clattering away, open water lapping and hissing, heavy breathing, Ellie's shouts. Every sound is diegetic and captured by the phone's built-in microphone from the filming position. Absolutely no music, no score, no risers, no whooshes, no cinematic bass hits.
+
+9. AUDIO REALISM
+Recorded as one live phone mic track: ambient cold-air quietness first (which makes the sudden event hit harder), then a real transient spike, mic overload crackle, and the room or landscape ringing out afterwards. Off-axis sounds are duller, close sounds are sharper. Exhales and gasps are audible, the animal's panting, barking, snorting or calls are species-true, and every footstep or impact lines up with the picture to the frame. Speech is unscripted, imperfect, with stumbles, swearing replaced by real-sounding exclamations, and natural accents for the region.
+
+10. 4K/8K VISUAL QUALITY ENHANCEMENT
+Even if the render is 1080p, it must deliver a premium 4K/8K-grade feel: razor-sharp micro-detail in perfectly clear black ice with stacked white methane bubbles beneath, steaming dark open water, bighorn sheep coats on the rocky slope, ice-cleat spikes biting into ice, teal beanie fibers; individual snowflakes, ice crystals and spindrift resolved in the air; realistic skin with pores, fine facial hair, cold-reddened cheeks, chapped lips and visible breath vapor; true fabric weave on knit hats, nylon shells, fleece and denim; accurate contact shadows under boots, paws and hooves; natural depth with gentle phone-lens background falloff; clean edges with no oversharpening halos, no smearing, no waxy smoothing and no noise-reduction mush. Lighting is physically motivated by the real sky, sun and practical light sources only, with correct specular highlights on ice and wet surfaces. Targeting Seedance 2.5-level realism through Seedance 2.0.
+
+11. REALISM AND CONTINUITY
+Zoe's teal beanie and black jacket stay; Raj's red parka and cleats stay; the tripod keeps sliding away; the wind direction stays constant toward the open water. Physics must be correct: snow and ice crack, slide and fall with real weight, momentum and debris that scatters and settles; near-freezing water looks dark, heavy and slushy; nothing floats, morphs or reverses. Human anatomy is correct at all times — five fingers per hand, natural joint limits, believable balance, real slips, stumbles and recoveries. Animal behavior is species-accurate in gait, ear and tail signals, vocalizations and reactions; the animal never acts like a trained movie actor or a cartoon. Footprints, paw prints and disturbed snow persist once made. Breath vapor appears with exhales in the cold. Time of day, light direction and weather stay consistent for all 15 seconds.
+
+12. AVOID
+Plastic or waxy skin, airbrushed faces, doll eyes, animated or rubbery bodies, extra or fused fingers, warped limbs, morphing faces, changing outfits, shifting animal markings, CGI-looking snow, fake particle snow, glossy video-game ice, unnatural slow motion, cinematic music, title text, subtitles, watermarks, logos, lens dirt overlays, film grain filters, teal-orange grading, over-saturated colors, drone shots, impossible camera moves, perfect studio lighting, humans or animals floating, objects passing through each other, physics that reverses, professional rescue crews, uniforms, sirens, helicopters, staged hero poses, gore, blood or graphic injury. Also avoid: Zoe falling into the water, unrealistic sliding speed, CGI ice, a cinematic score.
+```
+
+<a id="prompt-080"></a>
+## Prompt 080 — Moose on the Highway Stops the Truck Before the Avalanche — Rogers Pass, British Columbia
+
+```text
+1. FORMAT
+Vertical 9:16 smartphone video, 1080x1920, 30fps, exactly 15.0 seconds, one continuous real-time take with no cuts, no slow motion, no speed ramps and no transitions. Native in-camera audio only — no music, no voice-over, no captions, no on-screen text, no logos, no watermark. It must read as a real clip filmed by an ordinary person in the moment and posted unedited.
+
+2. LOOK
+Overcast morning in February, -8°C, heavy snow loading on the slopes, flat grey light, snow falling lightly, the road wet and slushy. True-to-life smartphone color science: snow rendered bright but never clipped to flat white, with visible crystal sparkle and cool blue-gray shading inside footprints and drifts; skin tones natural with cold-flushed cheeks, nose tips and knuckles; subtle sensor noise in the shadows, mild phone HDR tone mapping, faint compression texture in falling snow. No cinematic grading, no teal-and-orange look, no added film grain, no vignette, no beauty filter.
+
+3. CAMERA
+Megan films handheld from the passenger seat through the windshield, showing the highway ahead, the wipers sweeping, Greg's hands on the wheel. Imperfect amateur camerawork that sells authenticity: slight tilt, uneven headroom, quick reframing, a moment of the camera pointing at the snow or sky while the operator moves, then snapping back to the subject. Autofocus locks on the closest high-contrast object and occasionally racks between foreground snowflakes and the subject. Motion blur appears naturally on fast movement at a 1/60–1/120 phone shutter.
+
+4. LOCATION
+The Trans-Canada Highway through Rogers Pass in Glacier National Park, British Columbia: a two-lane road plowed between tall snowbanks, steep avalanche paths cutting down through the forest above, snow sheds in the distance, towering peaks of the Selkirks.
+
+5. CHARACTERS
+Greg Thompson, 48, white, burly, grey stubble, black ball cap, plaid jacket, driving a pickup; his daughter Megan Thompson, 20, red hair, green hoodie, filming from the passenger seat. A bull moose — huge dark-brown body, antlers already shed (bare pedicles), long legs, standing in the middle of the highway. Character consistency is locked: faces, body proportions, hairstyles, clothing colors, accessories and the animal's exact markings stay identical from the first frame to the last — no outfit changes, no face drift, no breed or coat changes.
+
+6. HOOK (00:00–00:02)
+00:00–00:01: Calm road trip — the wipers swish as Greg says, "Snowing pretty good up top." 00:01–00:02: A massive bull moose steps out of the snowbank right in front of the truck, and Greg stomps the brakes, the truck sliding to a stop meters from the moose.
+
+7. TIMELINE
+00:00–00:01 — The pickup drives along the highway; wipers swish; snowbanks tower on both sides.
+00:01–00:02 — A bull moose steps out; Greg slams the brakes; the truck slides and stops just short of it.
+00:02–00:03 — The moose stands in the lane staring at the truck, breath steaming; Megan gasps "Oh my God, it's huge."
+00:03–00:04 — Greg laughs nervously: "Easy, big fella." The moose doesn't move.
+00:04–00:05 — A distant rumble starts above; Megan looks up through the windshield at the slope.
+00:05–00:06 — A white wave of snow pours down an avalanche path onto the highway a hundred meters ahead.
+00:06–00:07 — The avalanche crosses both lanes, burying the road in a churning white mass.
+00:07–00:08 — A powder cloud rolls down the highway toward the truck, engulfing the moose and the windshield.
+00:08–00:09 — The cab goes white; the truck shakes slightly as the powder blast hits.
+00:09–00:10 — The powder clears: the road ahead is buried under a wall of debris three meters high.
+00:10–00:11 — The moose turns and trots into the trees, unbothered.
+00:11–00:12 — Greg grips the wheel, white-faced: "If he doesn't stop us, we're under that."
+00:12–00:13 — Megan, crying and laughing: "The moose saved us. The moose literally saved us."
+00:13–00:14 — Greg reverses slowly, the truck backing away from the debris pile.
+00:14–00:15 — Clip ends on the giant debris pile blocking the highway, the moose's tracks leading into the forest.
+
+8. SOUND DESIGN
+Engine hum, wiper swish, tires on slush, brakes and ABS chatter, the moose's heavy breathing and hooves on asphalt, a distant rumble growing into a roar, a powder blast hissing against the truck, snow pelting the windshield, Greg's nervous laugh, Megan's crying. Every sound is diegetic and captured by the phone's built-in microphone from the filming position. Absolutely no music, no score, no risers, no whooshes, no cinematic bass hits.
+
+9. AUDIO REALISM
+Authentic sound capture: the stillness of a snowy place (soft, dead acoustics because snow absorbs sound), distant natural background noise appropriate to the location, then sudden loud real-world sounds with proper attack and decay. The phone's noise suppression subtly pumps after loud sounds. People speak in quick fragments, breathing hard; the animal's sounds are recorded close and raw. No sweeteners, no Foley that does not match the action, no reverb that does not match the space.
+
+10. 4K/8K VISUAL QUALITY ENHANCEMENT
+Even if the render is 1080p, it must deliver a premium 4K/8K-grade feel: razor-sharp micro-detail in the bull moose's dark shaggy coat and bare antler pedicles, a churning white avalanche with debris chunks, wet slushy asphalt, wiper streaks on glass; individual snowflakes, ice crystals and spindrift resolved in the air; realistic skin with pores, fine facial hair, cold-reddened cheeks, chapped lips and visible breath vapor; true fabric weave on knit hats, nylon shells, fleece and denim; accurate contact shadows under boots, paws and hooves; natural depth with gentle phone-lens background falloff; clean edges with no oversharpening halos, no smearing, no waxy smoothing and no noise-reduction mush. Lighting is physically motivated by the real sky, sun and practical light sources only, with correct specular highlights on ice and wet surfaces. Targeting Seedance 2.5-level realism through Seedance 2.0.
+
+11. REALISM AND CONTINUITY
+Greg's ball cap and plaid jacket stay; Megan's green hoodie stays; the debris wall stays across the road; snowfall continues lightly. Physics must be correct: snow and ice crack, slide and fall with real weight, momentum and debris that scatters and settles; near-freezing water looks dark, heavy and slushy; nothing floats, morphs or reverses. Human anatomy is correct at all times — five fingers per hand, natural joint limits, believable balance, real slips, stumbles and recoveries. Animal behavior is species-accurate in gait, ear and tail signals, vocalizations and reactions; the animal never acts like a trained movie actor or a cartoon. Footprints, paw prints and disturbed snow persist once made. Breath vapor appears with exhales in the cold. Time of day, light direction and weather stay consistent for all 15 seconds.
+
+12. AVOID
+Plastic or waxy skin, airbrushed faces, doll eyes, animated or rubbery bodies, extra or fused fingers, warped limbs, morphing faces, changing outfits, shifting animal markings, CGI-looking snow, fake particle snow, glossy video-game ice, unnatural slow motion, cinematic music, title text, subtitles, watermarks, logos, lens dirt overlays, film grain filters, teal-orange grading, over-saturated colors, drone shots, impossible camera moves, perfect studio lighting, humans or animals floating, objects passing through each other, physics that reverses, professional rescue crews, uniforms, sirens, helicopters, staged hero poses, gore, blood or graphic injury. Also avoid: the moose attacking the truck, the truck buried, a CGI avalanche, cinematic music.
+```
+
+<a id="prompt-081"></a>
+## Prompt 081 — Leonberger Pulls the Kids Off the Trampoline Before the Spruce Falls — Prince George, British Columbia
+
+```text
+1. FORMAT
+Vertical 9:16 smartphone video, 1080x1920, 60fps, exactly 15.0 seconds, one continuous real-time take with no cuts, no slow motion, no speed ramps and no transitions. Native in-camera audio only — no music, no voice-over, no captions, no on-screen text, no logos, no watermark. It must read as a real clip filmed by an ordinary person in the moment and posted unedited.
+
+2. LOOK
+Bright afternoon in December after a freezing-rain event, -6°C, every spruce needle sheathed in ice and glittering, branches drooping heavily, sun low and warm. Looks exactly like an unedited clip straight off a modern iPhone or Pixel: auto white balance drifting slightly cooler in shade and warmer near artificial light, highlight roll-off on sunlit snow, honest contrast, occasional lens flare only when a real light source enters frame, natural softness at the extreme edges of the lens. Skin shows real texture, redness from the cold and dry, chapped lips. Nothing stylized, nothing graded, nothing glossy.
+
+3. CAMERA
+Anna films handheld from the back deck, framing the kids bouncing on the trampoline under the ice-laden spruce, Thor lying beside the net. Authentic handheld behavior throughout: micro-jitter from cold hands, breathing sway, footsteps transmitted into the frame, a brief autofocus hunt when the subject moves fast, exposure re-adjusting as the lens swings from bright snow to darker subjects, a 3–8 degree horizon tilt during the panic, and one fast whip-pan blur that resolves naturally. Standard phone main lens (about 26mm equivalent), no zoom pumping, no gimbal-smooth gliding, no drone-like motion.
+
+4. LOCATION
+A big backyard in Prince George, British Columbia: a round netted trampoline cleared of snow in the middle of a snowy lawn, a towering ice-glazed white spruce leaning slightly over it, a wooden fence, a house with a back deck, boreal forest beyond.
+
+5. CHARACTERS
+Lucas Bergstrom, 9, white, blond, green snowsuit, and his sister Freya, 7, white, blonde braids, red snowsuit, bouncing on the trampoline; their mother Anna Bergstrom, 37, beige toque, black jacket, filming from the deck. Thor, the family's 5-year-old Leonberger — giant, lion-like golden-red mane with a black mask, long thick coat, plumed tail — lying in the snow beside the trampoline. Character consistency is locked: faces, body proportions, hairstyles, clothing colors, accessories and the animal's exact markings stay identical from the first frame to the last — no outfit changes, no face drift, no breed or coat changes.
+
+6. HOOK (00:00–00:02)
+00:00–00:01: Pure joy — the kids bounce high, laughing, ice glittering in the tree above. 00:01–00:02: Thor jumps up barking deep and furious, and a loud crack echoes from the base of the leaning spruce as the whole tree tilts toward the trampoline.
+
+7. TIMELINE
+00:00–00:01 — The kids bounce and giggle on the trampoline; ice sparkles in the spruce; Thor lies in the snow.
+00:01–00:02 — Thor springs up barking; a sharp crack sounds at the spruce's base and the tree tilts further.
+00:02–00:03 — Anna screams "Kids, off! Get off!" The camera jerks toward the tree.
+00:03–00:04 — Thor shoves his head through the net opening, grabs Freya's snowsuit leg and pulls her toward the zipper gap.
+00:04–00:05 — Lucas scrambles to the net opening after his sister, the trampoline bouncing under them.
+00:05–00:06 — Freya tumbles out into the snow beside Thor; Lucas dives out behind her.
+00:06–00:07 — Thor herds them away from the trampoline, barking, pushing with his huge body.
+00:07–00:08 — The spruce roots tear up from the frozen ground and the tree crashes down across the trampoline.
+00:08–00:09 — The trampoline frame buckles and collapses; the net tears; ice shards explode across the yard.
+00:09–00:10 — A shower of glittering ice fragments rains down over the kids and the dog.
+00:10–00:11 — Anna runs off the deck, camera bouncing: "Are you hurt? Are you okay?"
+00:11–00:12 — The kids sit in the snow beside Thor, stunned; Freya starts crying.
+00:12–00:13 — The camera shows the trampoline crushed flat under the ice-coated spruce trunk.
+00:13–00:14 — Lucas, wide-eyed: "Thor pulled Freya out!"
+00:14–00:15 — Clip ends on both kids hugging the giant Leonberger's mane as ice tinkles down from the fallen branches.
+
+8. SOUND DESIGN
+Trampoline springs squeaking and creaking, kids' laughter, ice tinkling in branches, the Leonberger's deep booming barks, a sharp cracking of roots and wood, a groaning tilt, a huge crash of tree and ice, the trampoline frame crunching, net tearing, Anna's scream, crying. Every sound is diegetic and captured by the phone's built-in microphone from the filming position. Absolutely no music, no score, no risers, no whooshes, no cinematic bass hits.
+
+9. AUDIO REALISM
+Phone-mic characteristics: slightly compressed dynamic range, low-frequency wind rumble whenever gusts hit the microphone, a brief digital clip and automatic gain duck on the loudest crash followed by natural recovery. Voices are close and uneven in level — the operator's voice is loudest and distorts a little when shouting, others sound farther and airier. Breathing, nylon jacket swish, boot crunch and the animal's vocalizations are spatially correct and perfectly in sync with on-screen action. Dialogue is short, overlapping, natural North American English, with real fear and real relief, never movie lines.
+
+10. 4K/8K VISUAL QUALITY ENHANCEMENT
+Even if the render is 1080p, it must deliver a premium 4K/8K-grade feel: razor-sharp micro-detail in the Leonberger's lion-like golden-red mane and black mask, ice-sheathed spruce needles glittering, crushed trampoline frame and torn black netting, kids' nylon snowsuits; individual snowflakes, ice crystals and spindrift resolved in the air; realistic skin with pores, fine facial hair, cold-reddened cheeks, chapped lips and visible breath vapor; true fabric weave on knit hats, nylon shells, fleece and denim; accurate contact shadows under boots, paws and hooves; natural depth with gentle phone-lens background falloff; clean edges with no oversharpening halos, no smearing, no waxy smoothing and no noise-reduction mush. Lighting is physically motivated by the real sky, sun and practical light sources only, with correct specular highlights on ice and wet surfaces. Targeting Seedance 2.5-level realism through Seedance 2.0.
+
+11. REALISM AND CONTINUITY
+Lucas's green and Freya's red snowsuits stay; Thor's markings stay; the crushed trampoline stays under the tree; low sun holds. Physics must be correct: snow and ice crack, slide and fall with real weight, momentum and debris that scatters and settles; near-freezing water looks dark, heavy and slushy; nothing floats, morphs or reverses. Human anatomy is correct at all times — five fingers per hand, natural joint limits, believable balance, real slips, stumbles and recoveries. Animal behavior is species-accurate in gait, ear and tail signals, vocalizations and reactions; the animal never acts like a trained movie actor or a cartoon. Footprints, paw prints and disturbed snow persist once made. Breath vapor appears with exhales in the cold. Time of day, light direction and weather stay consistent for all 15 seconds.
+
+12. AVOID
+Plastic or waxy skin, airbrushed faces, doll eyes, animated or rubbery bodies, extra or fused fingers, warped limbs, morphing faces, changing outfits, shifting animal markings, CGI-looking snow, fake particle snow, glossy video-game ice, unnatural slow motion, cinematic music, title text, subtitles, watermarks, logos, lens dirt overlays, film grain filters, teal-orange grading, over-saturated colors, drone shots, impossible camera moves, perfect studio lighting, humans or animals floating, objects passing through each other, physics that reverses, professional rescue crews, uniforms, sirens, helicopters, staged hero poses, gore, blood or graphic injury. Also avoid: kids getting hit, a CGI tree fall, the dog acting like a movie hero, slow motion.
+```
+
+<a id="prompt-082"></a>
+## Prompt 082 — Ruffed Grouse Bursts From the Snow Before the Creek Gully Drop — Sun Peaks, British Columbia
+
+```text
+1. FORMAT
+Vertical 9:16 smartphone video, 1080x1920, 30fps, exactly 15.0 seconds, one continuous real-time take with no cuts, no slow motion, no speed ramps and no transitions. Native in-camera audio only — no music, no voice-over, no captions, no on-screen text, no logos, no watermark. It must read as a real clip filmed by an ordinary person in the moment and posted unedited.
+
+2. LOOK
+Bright snowy afternoon in January, -9°C, sun filtering through the trees in beams, light snow falling, deep blue shadows. Documentary-real phone footage: exposure set by the phone's auto mode so snow sits just below clipping and shadows hold a little noise; colors are muted and natural, never saturated; breath vapor catches the light; snow surfaces show wind ripples, sastrugi, boot holes and blue shadow. No color grade, no filters, no artificial glow, no dreamy haze, no sharpening halos.
+
+3. CAMERA
+Sam films handheld while skiing behind Josh through the glades, framing Josh's back and the slope ahead. Real person filming on a phone: the frame breathes and bobs with the operator's body, the grip shifts when they gasp, focus briefly pulses before locking onto the nearest face or animal, and the auto-exposure visibly brightens or darkens as the scene changes. During the crisis the framing becomes messy and partly misses the action for a moment before the operator recovers it. No cinematic dolly moves, no perfect composition, no impossible angles.
+
+4. LOCATION
+A gladed tree-skiing run in the backcountry near Sun Peaks, British Columbia: widely spaced subalpine fir and spruce in deep powder, a hidden steep-walled creek gully cutting across the slope below a small rise, its edge masked by smooth snow.
+
+5. CHARACTERS
+Josh Reynolds, 24, white, lanky, black helmet, bright yellow ski jacket, black pants, powder skis; his friend Sam Lee, 25, Korean Canadian, white helmet, red jacket, filming from behind while skiing. A ruffed grouse — mottled brown-grey plumage, a fan tail with a dark band, small crest — roosting buried in the snow, which explodes upward in front of Josh. Character consistency is locked: faces, body proportions, hairstyles, clothing colors, accessories and the animal's exact markings stay identical from the first frame to the last — no outfit changes, no face drift, no breed or coat changes.
+
+6. HOOK (00:00–00:02)
+00:00–00:01: Flowing powder — Josh floats through the trees in deep snow, hooting. 00:01–00:02: A ruffed grouse explodes out of the snow right under his ski tips in a thundering burst of wings, and Josh jerks to a sideways hockey stop in shock.
+
+7. TIMELINE
+00:00–00:01 — Josh floats through the glades, powder spraying, hooting; Sam follows close behind.
+00:01–00:02 — A grouse bursts out of the snow under his tips with thunderous wingbeats; Josh hockey-stops.
+00:02–00:03 — He stands sideways, laughing in shock: "Oh my God, a bird!" Sam skids up behind him.
+00:03–00:04 — Sam looks past him and his voice changes: "Josh… don't move. Look."
+00:04–00:05 — Two meters below Josh's skis, the snow ends in a sharp edge over a deep creek gully.
+00:05–00:06 — The gully walls drop five meters to rocks and running water, hidden by the smooth rise.
+00:06–00:07 — Josh slowly side-steps uphill, away from the edge; a chunk of the lip breaks off and falls.
+00:07–00:08 — The chunk tumbles down the gully wall and splashes into the creek below.
+00:08–00:09 — Sam's camera peers over: steep icy walls, boulders and dark water rushing.
+00:09–00:10 — Josh, pale: "I was going straight off that. Straight off."
+00:10–00:11 — Sam, breathless: "The grouse stopped you. You'd have been gone."
+00:11–00:12 — The grouse lands on a fir branch nearby, fluffing its feathers, clucking.
+00:12–00:13 — Josh laughs shakily, knocks his gloved fist against his helmet twice, and stares at the bird as if it might explain itself.
+00:13–00:14 — They side-step and traverse carefully uphill away from the gully, skis crunching, Josh glancing back over his shoulder at the hidden edge every few steps.
+00:14–00:15 — Clip ends on the grouse sitting on its branch in a sunbeam, snow sifting down around it.
+
+8. SOUND DESIGN
+Powder swishing, Josh's hoots, a sudden thundering explosion of grouse wings, a skidding hockey stop, laughter turning to silence, a snow chunk breaking and splashing below, rushing creek water, heavy breathing, soft grouse clucks, the forest hush. Every sound is diegetic and captured by the phone's built-in microphone from the filming position. Absolutely no music, no score, no risers, no whooshes, no cinematic bass hits.
+
+9. AUDIO REALISM
+Recorded as one live phone mic track: ambient cold-air quietness first (which makes the sudden event hit harder), then a real transient spike, mic overload crackle, and the room or landscape ringing out afterwards. Off-axis sounds are duller, close sounds are sharper. Exhales and gasps are audible, the animal's panting, barking, snorting or calls are species-true, and every footstep or impact lines up with the picture to the frame. Speech is unscripted, imperfect, with stumbles, swearing replaced by real-sounding exclamations, and natural accents for the region.
+
+10. 4K/8K VISUAL QUALITY ENHANCEMENT
+Even if the render is 1080p, it must deliver a premium 4K/8K-grade feel: razor-sharp micro-detail in the ruffed grouse's mottled brown-grey plumage and banded fan tail, deep powder snow with blue shadows, sunbeams through snow-laden fir branches, the gully's icy rock walls and dark water; individual snowflakes, ice crystals and spindrift resolved in the air; realistic skin with pores, fine facial hair, cold-reddened cheeks, chapped lips and visible breath vapor; true fabric weave on knit hats, nylon shells, fleece and denim; accurate contact shadows under boots, paws and hooves; natural depth with gentle phone-lens background falloff; clean edges with no oversharpening halos, no smearing, no waxy smoothing and no noise-reduction mush. Lighting is physically motivated by the real sky, sun and practical light sources only, with correct specular highlights on ice and wet surfaces. Targeting Seedance 2.5-level realism through Seedance 2.0.
+
+11. REALISM AND CONTINUITY
+Josh's yellow jacket and black helmet stay; Sam's red jacket is visible at the frame edges; the gully stays; the grouse stays on its branch. Physics must be correct: snow and ice crack, slide and fall with real weight, momentum and debris that scatters and settles; near-freezing water looks dark, heavy and slushy; nothing floats, morphs or reverses. Human anatomy is correct at all times — five fingers per hand, natural joint limits, believable balance, real slips, stumbles and recoveries. Animal behavior is species-accurate in gait, ear and tail signals, vocalizations and reactions; the animal never acts like a trained movie actor or a cartoon. Footprints, paw prints and disturbed snow persist once made. Breath vapor appears with exhales in the cold. Time of day, light direction and weather stay consistent for all 15 seconds.
+
+12. AVOID
+Plastic or waxy skin, airbrushed faces, doll eyes, animated or rubbery bodies, extra or fused fingers, warped limbs, morphing faces, changing outfits, shifting animal markings, CGI-looking snow, fake particle snow, glossy video-game ice, unnatural slow motion, cinematic music, title text, subtitles, watermarks, logos, lens dirt overlays, film grain filters, teal-orange grading, over-saturated colors, drone shots, impossible camera moves, perfect studio lighting, humans or animals floating, objects passing through each other, physics that reverses, professional rescue crews, uniforms, sirens, helicopters, staged hero poses, gore, blood or graphic injury. Also avoid: the skier falling into the gully, a CGI bird, cinematic slow motion, oversaturated colors.
+```
+
+<a id="prompt-083"></a>
+## Prompt 083 — Trumpeter Swans Reveal the Open Channel Under the Snow — Henrys Fork, Island Park, Idaho
+
+```text
+1. FORMAT
+Vertical 9:16 smartphone video, 1080x1920, 30fps, exactly 15.0 seconds, one continuous real-time take with no cuts, no slow motion, no speed ramps and no transitions. Native in-camera audio only — no music, no voice-over, no captions, no on-screen text, no logos, no watermark. It must read as a real clip filmed by an ordinary person in the moment and posted unedited.
+
+2. LOOK
+Clear cold morning in January, -20°C, ice fog lifting off the open water, sunlight sparkling on frost, blue sky. Raw social-media realism: the image has the slightly flat, true-to-life tonality of a phone camera in cold weather, with believable dynamic range, crisp but not oversharpened detail, faint rolling-shutter skew on the fastest pans, and realistic white-balance shifts as the lens moves between bright snow and darker subjects. Faces and hands look lived-in and cold, never airbrushed.
+
+3. CAMERA
+Amanda's helmet-mounted phone shows the trail ahead, Travis's sled in front, and the snowy river valley with swans visible in the distance. Imperfect amateur camerawork that sells authenticity: slight tilt, uneven headroom, quick reframing, a moment of the camera pointing at the snow or sky while the operator moves, then snapping back to the subject. Autofocus locks on the closest high-contrast object and occasionally racks between foreground snowflakes and the subject. Motion blur appears naturally on fast movement at a 1/60–1/120 phone shutter.
+
+4. LOCATION
+The snow-covered Henrys Fork of the Snake River near Island Park, Idaho: a wide, flat white river valley with willows and lodgepole pines, a groomed snowmobile trail running alongside, spring-fed open water channels hidden under thin snow crusts, trumpeter swans resting in the open water.
+
+5. CHARACTERS
+Travis Jensen, 35, white, stocky, red snowmobile suit, black helmet with visor up, riding a snowmobile; his wife Amanda Jensen, 33, white, blonde, purple snowmobile suit, riding behind and filming with a helmet camera. A group of trumpeter swans — huge pure-white birds with black bills and long necks — floating in an open channel, plus a few swans standing on the snow edge. Character consistency is locked: faces, body proportions, hairstyles, clothing colors, accessories and the animal's exact markings stay identical from the first frame to the last — no outfit changes, no face drift, no breed or coat changes.
+
+6. HOOK (00:00–00:02)
+00:00–00:01: Serene — the sleds idle slowly along the trail, Travis pointing at the swans. 00:01–00:02: The swans suddenly erupt off the water with loud trumpeting calls and pounding wings, revealing a long open channel right where Travis is steering off-trail toward them.
+
+7. TIMELINE
+00:00–00:01 — Travis steers off the trail toward the swans for a closer look; the sleds idle across snow.
+00:01–00:02 — The swans erupt with trumpeting calls; their takeoff reveals a long open channel ahead.
+00:02–00:03 — Travis slams his brake; his sled's skis stop just short of the snow edge over open water.
+00:03–00:04 — The snow crust under his skis sags with a wet crunch; water seeps up dark.
+00:04–00:05 — Amanda yells "Travis, back up! Back!" Her camera shakes.
+00:05–00:06 — Travis throws the sled into reverse; the track spins and sprays slush.
+00:06–00:07 — The snow edge where his skis were collapses into the open water with a splash.
+00:07–00:08 — His sled backs away; the track grips on firmer snow.
+00:08–00:09 — He stops beside Amanda's sled, breathing hard, his visor fogging up from the inside until he flips it open and gulps the frigid air.
+00:09–00:10 — The swans circle overhead, trumpeting, then land farther down the channel.
+00:10–00:11 — Travis, breathless: "There was snow over it. It looked solid."
+00:11–00:12 — Amanda: "The swans moved and I saw the water."
+00:12–00:13 — Amanda's camera turns to the open channel: a long ribbon of black spring water steaming in the cold, broken slabs of snow crust floating and spinning slowly in the current.
+00:13–00:14 — Travis kills his engine; in the sudden silence the swans' brassy calls echo across the frozen valley and frost crystals drift down from the willows.
+00:14–00:15 — Clip ends on the swans gliding in the steaming channel, white against the dark water.
+
+8. SOUND DESIGN
+Snowmobile engines idling, wind, the swans' loud brassy trumpeting calls, pounding wings, a wet crunch and splash, track spinning in slush, Amanda's shouts muffled by her helmet, heavy breathing, swans calling across the valley. Every sound is diegetic and captured by the phone's built-in microphone from the filming position. Absolutely no music, no score, no risers, no whooshes, no cinematic bass hits.
+
+9. AUDIO REALISM
+Authentic sound capture: the stillness of a snowy place (soft, dead acoustics because snow absorbs sound), distant natural background noise appropriate to the location, then sudden loud real-world sounds with proper attack and decay. The phone's noise suppression subtly pumps after loud sounds. People speak in quick fragments, breathing hard; the animal's sounds are recorded close and raw. No sweeteners, no Foley that does not match the action, no reverb that does not match the space.
+
+10. 4K/8K VISUAL QUALITY ENHANCEMENT
+Even if the render is 1080p, it must deliver a premium 4K/8K-grade feel: razor-sharp micro-detail in trumpeter swans' pure-white feathers and black bills, steaming open water, frost-covered willows, snowmobile suit fabric and visor fog; individual snowflakes, ice crystals and spindrift resolved in the air; realistic skin with pores, fine facial hair, cold-reddened cheeks, chapped lips and visible breath vapor; true fabric weave on knit hats, nylon shells, fleece and denim; accurate contact shadows under boots, paws and hooves; natural depth with gentle phone-lens background falloff; clean edges with no oversharpening halos, no smearing, no waxy smoothing and no noise-reduction mush. Lighting is physically motivated by the real sky, sun and practical light sources only, with correct specular highlights on ice and wet surfaces. Targeting Seedance 2.5-level realism through Seedance 2.0.
+
+11. REALISM AND CONTINUITY
+Travis's red suit and Amanda's purple suit stay; the open channel stays; the swans stay in the water at a distance; sunlight holds. Physics must be correct: snow and ice crack, slide and fall with real weight, momentum and debris that scatters and settles; near-freezing water looks dark, heavy and slushy; nothing floats, morphs or reverses. Human anatomy is correct at all times — five fingers per hand, natural joint limits, believable balance, real slips, stumbles and recoveries. Animal behavior is species-accurate in gait, ear and tail signals, vocalizations and reactions; the animal never acts like a trained movie actor or a cartoon. Footprints, paw prints and disturbed snow persist once made. Breath vapor appears with exhales in the cold. Time of day, light direction and weather stay consistent for all 15 seconds.
+
+12. AVOID
+Plastic or waxy skin, airbrushed faces, doll eyes, animated or rubbery bodies, extra or fused fingers, warped limbs, morphing faces, changing outfits, shifting animal markings, CGI-looking snow, fake particle snow, glossy video-game ice, unnatural slow motion, cinematic music, title text, subtitles, watermarks, logos, lens dirt overlays, film grain filters, teal-orange grading, over-saturated colors, drone shots, impossible camera moves, perfect studio lighting, humans or animals floating, objects passing through each other, physics that reverses, professional rescue crews, uniforms, sirens, helicopters, staged hero poses, gore, blood or graphic injury. Also avoid: the sled falling into the water, swans attacking, CGI birds, cinematic music.
+```
+
+<a id="prompt-084"></a>
+## Prompt 084 — Malinois Barks Him Off the Slope Before the Highmark Avalanche — Togwotee Pass, Wyoming
+
+```text
+1. FORMAT
+Vertical 9:16 smartphone video, 1080x1920, 30fps, exactly 15.0 seconds, one continuous real-time take with no cuts, no slow motion, no speed ramps and no transitions. Native in-camera audio only — no music, no voice-over, no captions, no on-screen text, no logos, no watermark. It must read as a real clip filmed by an ordinary person in the moment and posted unedited.
+
+2. LOOK
+Sunny afternoon in February, -10°C, brilliant sun, deep fresh powder on a wind-loaded slope, blue sky. True-to-life smartphone color science: snow rendered bright but never clipped to flat white, with visible crystal sparkle and cool blue-gray shading inside footprints and drifts; skin tones natural with cold-flushed cheeks, nose tips and knuckles; subtle sensor noise in the shadows, mild phone HDR tone mapping, faint compression texture in falling snow. No cinematic grading, no teal-and-orange look, no added film grain, no vignette, no beauty filter.
+
+3. CAMERA
+Jake films handheld from his parked sled at the bottom of the bowl, framing Cody idling at the base of the slope preparing to climb, Riot in the box at the bottom of the frame. Authentic handheld behavior throughout: micro-jitter from cold hands, breathing sway, footsteps transmitted into the frame, a brief autofocus hunt when the subject moves fast, exposure re-adjusting as the lens swings from bright snow to darker subjects, a 3–8 degree horizon tilt during the panic, and one fast whip-pan blur that resolves naturally. Standard phone main lens (about 26mm equivalent), no zoom pumping, no gimbal-smooth gliding, no drone-like motion.
+
+4. LOCATION
+A wide open bowl near Togwotee Pass, Wyoming: steep powder slopes above treeline popular with snowmobilers, deep tracks from highmarking, scattered spruce at the bottom, the jagged Absaroka peaks behind, the Tetons faint on the horizon.
+
+5. CHARACTERS
+Cody Larson, 30, white, beard, black helmet, neon-green snowmobile suit, on a mountain sled; his buddy Jake Morrison, 31, white, red helmet, black suit, filming from his parked sled at the bottom of the bowl. Riot, Jake's 4-year-old Belgian Malinois — fawn coat with a black mask, upright ears, lean athletic build, a red dog jacket, riding in a padded box on the back of Jake's sled. Character consistency is locked: faces, body proportions, hairstyles, clothing colors, accessories and the animal's exact markings stay identical from the first frame to the last — no outfit changes, no face drift, no breed or coat changes.
+
+6. HOOK (00:00–00:02)
+00:00–00:01: Hyped — Cody revs his sled at the base of the slope, shouting, "Watch this climb!" 00:01–00:02: Riot leaps out of the box barking furiously and races toward Cody, and a long crack shoots across the slope high above.
+
+7. TIMELINE
+00:00–00:01 — Cody revs at the base of the slope, grinning; Riot sits in the box on Jake's sled.
+00:01–00:02 — Riot leaps out barking and sprints toward Cody; a crack shoots across the slope above.
+00:02–00:03 — Jake yells "Cody, avalanche! Go left!" The camera shakes.
+00:03–00:04 — Cody looks up; the slope above breaks into a massive slab sliding downhill.
+00:04–00:05 — He whips his sled left and guns it across the bottom of the bowl, Riot running alongside.
+00:05–00:06 — The avalanche roars down the slope, a churning white wall.
+00:06–00:07 — Cody reaches the edge of the bowl near the trees as the debris pours over where he was idling.
+00:07–00:08 — A powder cloud blasts across the bowl, engulfing Jake's sled and the camera.
+00:08–00:09 — The frame goes completely white for a second, then slowly clears; fine snow crystals cling to the lens and melt into tiny droplets at the edges.
+00:09–00:10 — Cody stands beside his sled at the trees, Riot jumping on him.
+00:10–00:11 — The bottom of the bowl where Cody had been idling is buried under a debris pile two meters deep, broken slabs and chunky snow blocks jumbled together.
+00:11–00:12 — Jake runs over: "Dude! Riot saw it! He saw it first!"
+00:12–00:13 — Cody, shaking, hugs the Malinois: "You crazy dog. You crazy dog."
+00:13–00:14 — Jake pans up the slope to the crown wall, a clean meter-high fracture line stretching across the entire bowl, layers of snowpack visible in its face.
+00:14–00:15 — Clip ends on Riot barking at the debris as Cody sits in the snow, laughing in shock.
+
+8. SOUND DESIGN
+A revving two-stroke engine, the Malinois's furious barking, a crack across the slope, a deep rumbling roar of the avalanche, the sled's engine screaming, a powder blast hissing, Jake's shouts, heavy breathing, Cody's shaky laugh. Every sound is diegetic and captured by the phone's built-in microphone from the filming position. Absolutely no music, no score, no risers, no whooshes, no cinematic bass hits.
+
+9. AUDIO REALISM
+Phone-mic characteristics: slightly compressed dynamic range, low-frequency wind rumble whenever gusts hit the microphone, a brief digital clip and automatic gain duck on the loudest crash followed by natural recovery. Voices are close and uneven in level — the operator's voice is loudest and distorts a little when shouting, others sound farther and airier. Breathing, nylon jacket swish, boot crunch and the animal's vocalizations are spatially correct and perfectly in sync with on-screen action. Dialogue is short, overlapping, natural North American English, with real fear and real relief, never movie lines.
+
+10. 4K/8K VISUAL QUALITY ENHANCEMENT
+Even if the render is 1080p, it must deliver a premium 4K/8K-grade feel: razor-sharp micro-detail in the Malinois's fawn coat with black mask and red jacket, churning avalanche debris, the crown wall's snow layers, neon snowmobile suit fabric; individual snowflakes, ice crystals and spindrift resolved in the air; realistic skin with pores, fine facial hair, cold-reddened cheeks, chapped lips and visible breath vapor; true fabric weave on knit hats, nylon shells, fleece and denim; accurate contact shadows under boots, paws and hooves; natural depth with gentle phone-lens background falloff; clean edges with no oversharpening halos, no smearing, no waxy smoothing and no noise-reduction mush. Lighting is physically motivated by the real sky, sun and practical light sources only, with correct specular highlights on ice and wet surfaces. Targeting Seedance 2.5-level realism through Seedance 2.0.
+
+11. REALISM AND CONTINUITY
+Cody's neon-green suit and black helmet stay; Riot's red jacket stays; the debris pile stays; brilliant sun holds. Physics must be correct: snow and ice crack, slide and fall with real weight, momentum and debris that scatters and settles; near-freezing water looks dark, heavy and slushy; nothing floats, morphs or reverses. Human anatomy is correct at all times — five fingers per hand, natural joint limits, believable balance, real slips, stumbles and recoveries. Animal behavior is species-accurate in gait, ear and tail signals, vocalizations and reactions; the animal never acts like a trained movie actor or a cartoon. Footprints, paw prints and disturbed snow persist once made. Breath vapor appears with exhales in the cold. Time of day, light direction and weather stay consistent for all 15 seconds.
+
+12. AVOID
+Plastic or waxy skin, airbrushed faces, doll eyes, animated or rubbery bodies, extra or fused fingers, warped limbs, morphing faces, changing outfits, shifting animal markings, CGI-looking snow, fake particle snow, glossy video-game ice, unnatural slow motion, cinematic music, title text, subtitles, watermarks, logos, lens dirt overlays, film grain filters, teal-orange grading, over-saturated colors, drone shots, impossible camera moves, perfect studio lighting, humans or animals floating, objects passing through each other, physics that reverses, professional rescue crews, uniforms, sirens, helicopters, staged hero poses, gore, blood or graphic injury. Also avoid: the rider buried, a CGI avalanche, the dog with superhuman speed, cinematic music.
+```
+
+<a id="prompt-085"></a>
+## Prompt 085 — Caribou Herd Detours Around the Thin Ice — Happy Valley-Goose Bay, Labrador
+
+```text
+1. FORMAT
+Vertical 9:16 smartphone video, 1080x1920, 60fps, exactly 15.0 seconds, one continuous real-time take with no cuts, no slow motion, no speed ramps and no transitions. Native in-camera audio only — no music, no voice-over, no captions, no on-screen text, no logos, no watermark. It must read as a real clip filmed by an ordinary person in the moment and posted unedited.
+
+2. LOOK
+Overcast afternoon in March, -12°C, flat grey light, light wind, the ice showing a darker grey patch where a stream enters the lake. Looks exactly like an unedited clip straight off a modern iPhone or Pixel: auto white balance drifting slightly cooler in shade and warmer near artificial light, highlight roll-off on sunlit snow, honest contrast, occasional lens flare only when a real light source enters frame, natural softness at the extreme edges of the lens. Skin shows real texture, redness from the cold and dry, chapped lips. Nothing stylized, nothing graded, nothing glossy.
+
+3. CAMERA
+Sarah films handheld from her snowmobile behind Jacob, framing his sled, the caribou crossing ahead and the darker patch of ice. Real person filming on a phone: the frame breathes and bobs with the operator's body, the grip shifts when they gasp, focus briefly pulses before locking onto the nearest face or animal, and the auto-exposure visibly brightens or darkens as the scene changes. During the crisis the framing becomes messy and partly misses the action for a moment before the operator recovers it. No cinematic dolly moves, no perfect composition, no impossible angles.
+
+4. LOCATION
+A frozen lake on the barrens near Happy Valley-Goose Bay, Labrador: a vast white plain with low black spruce islands, a snowmobile trail crossing the lake, a herd of caribou crossing ahead, the Mealy Mountains on the horizon.
+
+5. CHARACTERS
+Jacob Rich, 28, Innu, broad face, black hair under a fur-trimmed hood, blue snowmobile suit, riding ahead; his cousin Sarah Rich, 25, Innu, black braid, red parka, riding behind and filming. A herd of about forty woodland caribou — grey-brown coats with white necks and rumps, some with antlers — crossing the lake ahead and detouring around a darker patch of ice. Character consistency is locked: faces, body proportions, hairstyles, clothing colors, accessories and the animal's exact markings stay identical from the first frame to the last — no outfit changes, no face drift, no breed or coat changes.
+
+6. HOOK (00:00–00:02)
+00:00–00:01: Majestic — the caribou herd streams across the lake ahead as Jacob slows his sled, pointing. 00:01–00:02: The herd suddenly splits and veers wide around a darker patch of ice, and Jacob, cutting straight across, feels his sled lurch as the ice cracks beneath him.
+
+7. TIMELINE
+00:00–00:01 — Jacob slows, pointing at the caribou herd crossing; Sarah films from behind.
+00:01–00:02 — The herd veers wide around a darker patch; Jacob cuts straight; the ice cracks under his sled.
+00:02–00:03 — His sled lurches as the back sinks slightly; slush sprays up from the track.
+00:03–00:04 — Sarah yells "Jacob! Go, go! Throttle!" Her camera shakes.
+00:04–00:05 — Jacob guns the throttle; the track spins, throwing slush, and the sled surges forward.
+00:05–00:06 — The ice behind him breaks into a dark hole as his track leaves it.
+00:06–00:07 — He skims across the weak patch and reaches solid snow on the far side.
+00:07–00:08 — He skids to a stop and twists around on the seat, breathing hard; behind him the jagged hole steams, black water slopping over its edges onto the snow.
+00:08–00:09 — Sarah steers in a wide arc around the dark patch, following the exact line of hoofprints the caribou left in the snow, the camera tilting with each bump.
+00:09–00:10 — She stops beside Jacob; the camera points back at the hole, grey slush floating in it, the track marks of his sled leading straight into one side and out the other.
+00:10–00:11 — Jacob, shaking: "They went around. I didn't look."
+00:11–00:12 — Sarah: "They always know. Always."
+00:12–00:13 — On the far shore the caribou stop in a loose line, heads turned back toward the sleds, breath steaming, a big bull shaking frost off his antlers.
+00:13–00:14 — Jacob pulls off a beaded mitt and wipes his frosted face with his bare hand, then starts laughing, the shaky laugh of someone who just understood how close it was.
+00:14–00:15 — Clip ends on the caribou herd disappearing into the spruce islands.
+
+8. SOUND DESIGN
+Snowmobile engines, wind, caribou hooves clicking on the ice, a crack and slushy lurch, the engine screaming at full throttle, slush spraying, Sarah's shouts, heavy breathing, engines idling. Every sound is diegetic and captured by the phone's built-in microphone from the filming position. Absolutely no music, no score, no risers, no whooshes, no cinematic bass hits.
+
+9. AUDIO REALISM
+Recorded as one live phone mic track: ambient cold-air quietness first (which makes the sudden event hit harder), then a real transient spike, mic overload crackle, and the room or landscape ringing out afterwards. Off-axis sounds are duller, close sounds are sharper. Exhales and gasps are audible, the animal's panting, barking, snorting or calls are species-true, and every footstep or impact lines up with the picture to the frame. Speech is unscripted, imperfect, with stumbles, swearing replaced by real-sounding exclamations, and natural accents for the region.
+
+10. 4K/8K VISUAL QUALITY ENHANCEMENT
+Even if the render is 1080p, it must deliver a premium 4K/8K-grade feel: razor-sharp micro-detail in caribou winter coats with white necks and antlers, the dark grey patch of weak ice, steaming slush, fur-trimmed hood and snowmobile suit fabric; individual snowflakes, ice crystals and spindrift resolved in the air; realistic skin with pores, fine facial hair, cold-reddened cheeks, chapped lips and visible breath vapor; true fabric weave on knit hats, nylon shells, fleece and denim; accurate contact shadows under boots, paws and hooves; natural depth with gentle phone-lens background falloff; clean edges with no oversharpening halos, no smearing, no waxy smoothing and no noise-reduction mush. Lighting is physically motivated by the real sky, sun and practical light sources only, with correct specular highlights on ice and wet surfaces. Targeting Seedance 2.5-level realism through Seedance 2.0.
+
+11. REALISM AND CONTINUITY
+Jacob's blue suit and fur hood stay; Sarah's red parka stays; the hole stays open; the caribou stay at a distance. Physics must be correct: snow and ice crack, slide and fall with real weight, momentum and debris that scatters and settles; near-freezing water looks dark, heavy and slushy; nothing floats, morphs or reverses. Human anatomy is correct at all times — five fingers per hand, natural joint limits, believable balance, real slips, stumbles and recoveries. Animal behavior is species-accurate in gait, ear and tail signals, vocalizations and reactions; the animal never acts like a trained movie actor or a cartoon. Footprints, paw prints and disturbed snow persist once made. Breath vapor appears with exhales in the cold. Time of day, light direction and weather stay consistent for all 15 seconds.
+
+12. AVOID
+Plastic or waxy skin, airbrushed faces, doll eyes, animated or rubbery bodies, extra or fused fingers, warped limbs, morphing faces, changing outfits, shifting animal markings, CGI-looking snow, fake particle snow, glossy video-game ice, unnatural slow motion, cinematic music, title text, subtitles, watermarks, logos, lens dirt overlays, film grain filters, teal-orange grading, over-saturated colors, drone shots, impossible camera moves, perfect studio lighting, humans or animals floating, objects passing through each other, physics that reverses, professional rescue crews, uniforms, sirens, helicopters, staged hero poses, gore, blood or graphic injury. Also avoid: the sled sinking, caribou stampeding at people, CGI animals, cinematic music.
+```
+
+<a id="prompt-086"></a>
+## Prompt 086 — Muskox Herd Moves Inland Before the Sea Ice Shoves Ashore — Nome, Alaska
+
+```text
+1. FORMAT
+Vertical 9:16 smartphone video, 1080x1920, 30fps, exactly 15.0 seconds, one continuous real-time take with no cuts, no slow motion, no speed ramps and no transitions. Native in-camera audio only — no music, no voice-over, no captions, no on-screen text, no logos, no watermark. It must read as a real clip filmed by an ordinary person in the moment and posted unedited.
+
+2. LOOK
+Overcast windy afternoon in March, -15°C, a strong southwest wind pushing the pack ice toward shore, flat grey light, blowing snow along the beach. Documentary-real phone footage: exposure set by the phone's auto mode so snow sits just below clipping and shadows hold a little noise; colors are muted and natural, never saturated; breath vapor catches the light; snow surfaces show wind ripples, sastrugi, boot holes and blue shadow. No color grade, no filters, no artificial glow, no dreamy haze, no sharpening halos.
+
+3. CAMERA
+Kyle films handheld from the beach, framing his mother near the shore ice, the muskoxen grazing to the right, the seawall and town behind. Imperfect amateur camerawork that sells authenticity: slight tilt, uneven headroom, quick reframing, a moment of the camera pointing at the snow or sky while the operator moves, then snapping back to the subject. Autofocus locks on the closest high-contrast object and occasionally racks between foreground snowflakes and the subject. Motion blur appears naturally on fast movement at a 1/60–1/120 phone shutter.
+
+4. LOCATION
+The seawall and snowy beach along Front Street in Nome, Alaska: a rock-armored seawall, the frozen Bering Sea stretching flat and white to the horizon, wooden buildings and a gold-rush-era storefront behind, a few small fishing shacks on the shore ice, a herd of muskoxen grazing on the snowy tundra strip at the edge of town.
+
+5. CHARACTERS
+Ellen Ahkinga, 42, Iñupiaq, round face, black hair under a fur-trimmed calico parka (atikłuk) over a down coat, beaded mitts; her son Kyle, 12, black hoodie under a blue parka, filming; both are standing on the beach in front of the seawall looking at the ice. A small herd of muskoxen — long shaggy dark-brown coats sweeping to the ground, pale "saddles," curved horns with broad bosses — grazing on the beach strip beside the seawall. Character consistency is locked: faces, body proportions, hairstyles, clothing colors, accessories and the animal's exact markings stay identical from the first frame to the last — no outfit changes, no face drift, no breed or coat changes.
+
+6. HOOK (00:00–00:02)
+00:00–00:01: Everyday Nome — Ellen points at the sea ice, saying, "See how it's piling up out there?" 00:01–00:02: The muskoxen suddenly bunch into a tight defensive circle, then break and gallop up the beach toward the town, and a deep grinding roar rolls in from the sea ice.
+
+7. TIMELINE
+00:00–00:01 — Ellen points at pressure ridges far out on the sea ice; the muskoxen graze calmly to the right.
+00:01–00:02 — The muskoxen bunch tightly, then gallop inland up the beach; a deep grinding roar rolls in from the ice.
+00:02–00:03 — Kyle swings the camera: "Mom, the musk ox—" The shore ice heaves upward with a crack.
+00:03–00:04 — A wall of sea ice slabs starts sliding and tumbling up onto the beach toward them, pushed by the wind.
+00:04–00:05 — Ellen grabs Kyle's arm: "Run! Up the wall, follow them!" The camera bounces.
+00:05–00:06 — They run after the muskoxen toward the seawall steps, boots slipping in blowing snow.
+00:06–00:07 — Slabs of ice the size of cars grind up the beach behind them, cracking and stacking.
+00:07–00:08 — They scramble up the rock seawall; Ellen pushes Kyle ahead, her mitt on his back.
+00:08–00:09 — At the top they turn: the ice pile surges up against the base of the seawall, slabs shattering.
+00:09–00:10 — A fishing shack on the shore ice is shoved over and crushed beneath the advancing slabs.
+00:10–00:11 — The grinding slows and stops, leaving a jagged mountain of ice where they had been standing.
+00:11–00:12 — The muskoxen stand on the street beyond the seawall, steaming, heads lowered, horns gleaming.
+00:12–00:13 — Ellen, breathless: "Ivu. The ice came in. They felt it before we heard it."
+00:13–00:14 — Kyle pans across the ice pile, three meters high, pressed against the seawall rocks.
+00:14–00:15 — Clip ends on the muskoxen slowly wandering down Front Street as Ellen hugs Kyle in the wind.
+
+8. SOUND DESIGN
+Wind howling off the Bering Sea, blowing snow hissing, muskoxen grunts and pounding hooves, a deep grinding roar of moving sea ice, slabs cracking and shattering, wood splintering as the shack is crushed, boots scrambling on rocks, Ellen's urgent voice, heavy breathing. Every sound is diegetic and captured by the phone's built-in microphone from the filming position. Absolutely no music, no score, no risers, no whooshes, no cinematic bass hits.
+
+9. AUDIO REALISM
+Authentic sound capture: the stillness of a snowy place (soft, dead acoustics because snow absorbs sound), distant natural background noise appropriate to the location, then sudden loud real-world sounds with proper attack and decay. The phone's noise suppression subtly pumps after loud sounds. People speak in quick fragments, breathing hard; the animal's sounds are recorded close and raw. No sweeteners, no Foley that does not match the action, no reverb that does not match the space.
+
+10. 4K/8K VISUAL QUALITY ENHANCEMENT
+Even if the render is 1080p, it must deliver a premium 4K/8K-grade feel: razor-sharp micro-detail in the muskoxen's long shaggy dark coats and curved horn bosses frosted with snow, grinding sea-ice slabs with blue and white layers, a fur-trimmed calico parka with rickrack trim, beaded mitts, rough seawall rocks; individual snowflakes, ice crystals and spindrift resolved in the air; realistic skin with pores, fine facial hair, cold-reddened cheeks, chapped lips and visible breath vapor; true fabric weave on knit hats, nylon shells, fleece and denim; accurate contact shadows under boots, paws and hooves; natural depth with gentle phone-lens background falloff; clean edges with no oversharpening halos, no smearing, no waxy smoothing and no noise-reduction mush. Lighting is physically motivated by the real sky, sun and practical light sources only, with correct specular highlights on ice and wet surfaces. Targeting Seedance 2.5-level realism through Seedance 2.0.
+
+11. REALISM AND CONTINUITY
+Ellen's calico parka and beaded mitts stay; Kyle's blue parka stays; the crushed shack stays crushed; the ice pile stays against the seawall; the wind direction never changes. Physics must be correct: snow and ice crack, slide and fall with real weight, momentum and debris that scatters and settles; near-freezing water looks dark, heavy and slushy; nothing floats, morphs or reverses. Human anatomy is correct at all times — five fingers per hand, natural joint limits, believable balance, real slips, stumbles and recoveries. Animal behavior is species-accurate in gait, ear and tail signals, vocalizations and reactions; the animal never acts like a trained movie actor or a cartoon. Footprints, paw prints and disturbed snow persist once made. Breath vapor appears with exhales in the cold. Time of day, light direction and weather stay consistent for all 15 seconds.
+
+12. AVOID
+Plastic or waxy skin, airbrushed faces, doll eyes, animated or rubbery bodies, extra or fused fingers, warped limbs, morphing faces, changing outfits, shifting animal markings, CGI-looking snow, fake particle snow, glossy video-game ice, unnatural slow motion, cinematic music, title text, subtitles, watermarks, logos, lens dirt overlays, film grain filters, teal-orange grading, over-saturated colors, drone shots, impossible camera moves, perfect studio lighting, humans or animals floating, objects passing through each other, physics that reverses, professional rescue crews, uniforms, sirens, helicopters, staged hero poses, gore, blood or graphic injury. Also avoid: muskoxen charging people, a CGI ice tsunami, the family caught in the ice, stereotyped or costume-like clothing, cinematic music.
+```
+
+<a id="prompt-087"></a>
+## Prompt 087 — Glacier Calving Shatters the Lake Ice Under the Skaters — Portage Lake, Alaska
+
+```text
+1. FORMAT
+Vertical 9:16 smartphone video, 1080x1920, 30fps, exactly 15.0 seconds, one continuous real-time take with no cuts, no slow motion, no speed ramps and no transitions. Native in-camera audio only — no music, no voice-over, no captions, no on-screen text, no logos, no watermark. It must read as a real clip filmed by an ordinary person in the moment and posted unedited.
+
+2. LOOK
+Clear cold afternoon in January, -10°C, low winter sun lighting the mountaintops pink while the lake lies in shadow, wind calm, the ice smooth and dark. Raw social-media realism: the image has the slightly flat, true-to-life tonality of a phone camera in cold weather, with believable dynamic range, crisp but not oversharpened detail, faint rolling-shutter skew on the fastest pans, and realistic white-balance shifts as the lens moves between bright snow and darker subjects. Faces and hands look lived-in and cold, never airbrushed.
+
+3. CAMERA
+Jordan films handheld while skating slowly, framing Hailey gliding ahead toward the frozen-in icebergs, Moose padding alongside. Authentic handheld behavior throughout: micro-jitter from cold hands, breathing sway, footsteps transmitted into the frame, a brief autofocus hunt when the subject moves fast, exposure re-adjusting as the lens swings from bright snow to darker subjects, a 3–8 degree horizon tilt during the panic, and one fast whip-pan blur that resolves naturally. Standard phone main lens (about 26mm equivalent), no zoom pumping, no gimbal-smooth gliding, no drone-like motion.
+
+4. LOCATION
+Frozen Portage Lake in the Chugach National Forest, Alaska: a glassy lake surface with patches of clear black ice and windblown snow, the blue face of Portage Glacier at the far end of the lake behind a band of stranded icebergs frozen in place, steep snowy mountains on all sides.
+
+5. CHARACTERS
+Hailey Morgan, 19, white, long blonde hair under a grey beanie, white figure skates, black puffy jacket, leggings; her friend Jordan Kim, 20, Korean American, black beanie, red jacket, hockey skates, filming while skating. Moose, Hailey's 3-year-old Bernese-Labrador mix — big, black coat with white chest and rust eyebrows, floppy ears — trotting on the ice beside them. Character consistency is locked: faces, body proportions, hairstyles, clothing colors, accessories and the animal's exact markings stay identical from the first frame to the last — no outfit changes, no face drift, no breed or coat changes.
+
+6. HOOK (00:00–00:02)
+00:00–00:01: Dreamlike — Hailey glides toward the glowing blue icebergs, laughing, "This is like another planet!" 00:01–00:02: A colossal boom echoes off the mountains as a chunk of the glacier face collapses into the lake, and a crack races across the ice toward the skaters.
+
+7. TIMELINE
+00:00–00:01 — Hailey glides toward the icebergs, arms out, laughing; Moose trots beside her; the glacier glows blue.
+00:01–00:02 — A colossal boom echoes as part of the glacier face collapses; a crack races across the lake toward them.
+00:02–00:03 — The ice under them heaves upward in a long swell, rising and falling like a slow wave.
+00:03–00:04 — Jordan screams "Hailey! Turn around!" The camera tilts as he skids.
+00:04–00:05 — Moose barks and runs back toward shore, looking back over his shoulder at Hailey.
+00:05–00:06 — Hailey spins and sprints after the dog on her skates, blades clattering on uneven ice.
+00:06–00:07 — Cracks split open behind her with sharp pops; water spurts up through the fractures.
+00:07–00:08 — Jordan skates beside her; the camera swings between the shoreline and the cracking ice behind.
+00:08–00:09 — A slab of ice breaks free and tilts behind them, black water sloshing over it.
+00:09–00:10 — They reach the snowy shore ice where Moose waits, barking; Hailey falls onto her knees.
+00:10–00:11 — Behind them the lake surface is a maze of new cracks, water welling up dark in the seams.
+00:11–00:12 — Far away, a cloud of ice crystals hangs in front of the glacier face where the chunk fell.
+00:12–00:13 — Hailey, gasping: "Moose ran the right way. I just followed him."
+00:13–00:14 — Jordan pans across the shattered lake ice, the icebergs tilted at new angles.
+00:14–00:15 — Clip ends on Hailey hugging the big black dog on the shore as the lake ice groans and settles.
+
+8. SOUND DESIGN
+Skate blades hissing and carving, deep silence, a colossal echoing boom of calving ice, a long groaning swell through the lake ice, sharp popping cracks, water spurting, the dog's barking, Jordan's scream, blades clattering, heavy breathing, ice settling with eerie pinging sounds. Every sound is diegetic and captured by the phone's built-in microphone from the filming position. Absolutely no music, no score, no risers, no whooshes, no cinematic bass hits.
+
+9. AUDIO REALISM
+Phone-mic characteristics: slightly compressed dynamic range, low-frequency wind rumble whenever gusts hit the microphone, a brief digital clip and automatic gain duck on the loudest crash followed by natural recovery. Voices are close and uneven in level — the operator's voice is loudest and distorts a little when shouting, others sound farther and airier. Breathing, nylon jacket swish, boot crunch and the animal's vocalizations are spatially correct and perfectly in sync with on-screen action. Dialogue is short, overlapping, natural North American English, with real fear and real relief, never movie lines.
+
+10. 4K/8K VISUAL QUALITY ENHANCEMENT
+Even if the render is 1080p, it must deliver a premium 4K/8K-grade feel: razor-sharp micro-detail in the dog's black coat with white chest and rust eyebrows, clear black lake ice with white fracture lines, glowing blue glacier ice and stranded icebergs, a cloud of ice crystals in pink alpenglow; individual snowflakes, ice crystals and spindrift resolved in the air; realistic skin with pores, fine facial hair, cold-reddened cheeks, chapped lips and visible breath vapor; true fabric weave on knit hats, nylon shells, fleece and denim; accurate contact shadows under boots, paws and hooves; natural depth with gentle phone-lens background falloff; clean edges with no oversharpening halos, no smearing, no waxy smoothing and no noise-reduction mush. Lighting is physically motivated by the real sky, sun and practical light sources only, with correct specular highlights on ice and wet surfaces. Targeting Seedance 2.5-level realism through Seedance 2.0.
+
+11. REALISM AND CONTINUITY
+Hailey's grey beanie and white skates stay; Jordan's red jacket appears in frame edges; the cracked ice field stays; the pink light on the peaks holds. Physics must be correct: snow and ice crack, slide and fall with real weight, momentum and debris that scatters and settles; near-freezing water looks dark, heavy and slushy; nothing floats, morphs or reverses. Human anatomy is correct at all times — five fingers per hand, natural joint limits, believable balance, real slips, stumbles and recoveries. Animal behavior is species-accurate in gait, ear and tail signals, vocalizations and reactions; the animal never acts like a trained movie actor or a cartoon. Footprints, paw prints and disturbed snow persist once made. Breath vapor appears with exhales in the cold. Time of day, light direction and weather stay consistent for all 15 seconds.
+
+12. AVOID
+Plastic or waxy skin, airbrushed faces, doll eyes, animated or rubbery bodies, extra or fused fingers, warped limbs, morphing faces, changing outfits, shifting animal markings, CGI-looking snow, fake particle snow, glossy video-game ice, unnatural slow motion, cinematic music, title text, subtitles, watermarks, logos, lens dirt overlays, film grain filters, teal-orange grading, over-saturated colors, drone shots, impossible camera moves, perfect studio lighting, humans or animals floating, objects passing through each other, physics that reverses, professional rescue crews, uniforms, sirens, helicopters, staged hero poses, gore, blood or graphic injury. Also avoid: a CGI glacier collapse, a tsunami wave, skaters falling into water, cinematic slow motion, oversaturated colors.
+```
+
+<a id="prompt-088"></a>
+## Prompt 088 — Stuck in Glacial Silt as the Bore Tide Comes In — Turnagain Arm, Alaska
+
+```text
+1. FORMAT
+Vertical 9:16 smartphone video, 1080x1920, 30fps, exactly 15.0 seconds, one continuous real-time take with no cuts, no slow motion, no speed ramps and no transitions. Native in-camera audio only — no music, no voice-over, no captions, no on-screen text, no logos, no watermark. It must read as a real clip filmed by an ordinary person in the moment and posted unedited.
+
+2. LOOK
+Grey afternoon in March, -3°C, low tide with a bore tide approaching from the west, light snow falling, flat light, eerie quiet. True-to-life smartphone color science: snow rendered bright but never clipped to flat white, with visible crystal sparkle and cool blue-gray shading inside footprints and drifts; skin tones natural with cold-flushed cheeks, nose tips and knuckles; subtle sensor noise in the shadows, mild phone HDR tone mapping, faint compression texture in falling snow. No cinematic grading, no teal-and-orange look, no added film grain, no vignette, no beauty filter.
+
+3. CAMERA
+Nicole films handheld from the rocky shoreline, framing Brandon out on the grey mudflat near a stranded ice block, Bear near him. Real person filming on a phone: the frame breathes and bobs with the operator's body, the grip shifts when they gasp, focus briefly pulses before locking onto the nearest face or animal, and the auto-exposure visibly brightens or darkens as the scene changes. During the crisis the framing becomes messy and partly misses the action for a moment before the operator recovers it. No cinematic dolly moves, no perfect composition, no impossible angles.
+
+4. LOCATION
+The mudflats of Turnagain Arm near Girdwood, Alaska: grey glacial silt flats crusted with snow and ice chunks at low tide, the Chugach Mountains rising steeply on both sides, the Seward Highway along the shore, big stranded ice blocks scattered across the mud.
+
+5. CHARACTERS
+Brandon Wells, 26, white, lanky, black beanie, red jacket, jeans, rubber boots, who has walked out onto the flats to photograph ice blocks; his friend Nicole Torres, 25, Latina, black hair, green parka, filming from the edge of the rocks. Bear, Brandon's 5-year-old Chesapeake Bay Retriever mix — wavy brown coat, yellow eyes, a blue harness with a long lead trailing behind him. Character consistency is locked: faces, body proportions, hairstyles, clothing colors, accessories and the animal's exact markings stay identical from the first frame to the last — no outfit changes, no face drift, no breed or coat changes.
+
+6. HOOK (00:00–00:02)
+00:00–00:01: Exploring — Brandon poses beside a giant ice block on the mud, grinning. 00:01–00:02: He takes a step and sinks to his knee in grey silt, stuck fast, as a distant roaring sound rolls up the inlet and a white line of water appears on the horizon.
+
+7. TIMELINE
+00:00–00:01 — Brandon poses beside the stranded ice block; Bear sniffs the mud around him.
+00:01–00:02 — He steps and sinks knee-deep into silt; a distant roar rolls up the inlet; a white line appears on the horizon.
+00:02–00:03 — He tugs his leg; the silt sucks at his boot like wet cement; he yells "I'm stuck!"
+00:03–00:04 — Nicole screams "Brandon! The tide's coming!" The camera zooms toward the white wave line.
+00:04–00:05 — Bear barks and circles him, trailing the long lead across the mud.
+00:05–00:06 — Brandon grabs Bear's lead and wraps it around his wrist; the dog pulls toward shore.
+00:06–00:07 — He slips his foot out of the boot, leaving it in the mud, and flops forward onto his chest.
+00:07–00:08 — Bear hauls him forward across the slick silt like a sled, claws digging in.
+00:08–00:09 — The bore tide rolls up the inlet, a meter-high wall of grey water and ice chunks churning.
+00:09–00:10 — Nicole runs onto the edge of the flats and grabs Brandon's arm, pulling him onto the rocks.
+00:10–00:11 — The tide sweeps over the spot where he was stuck, swallowing his boot and the ice block's base.
+00:11–00:12 — Water surges past the rocks, ice chunks grinding and bobbing.
+00:12–00:13 — Brandon lies on the rocks in one boot and one sock, covered in grey mud, gasping.
+00:13–00:14 — Bear shakes mud off his coat; Brandon hugs him: "You pulled me out, buddy."
+00:14–00:15 — Clip ends on the tide filling the inlet, the boot gone, as Nicole sobs with relief.
+
+8. SOUND DESIGN
+Quiet inlet, light snowfall, mud squelching and sucking, a distant growing roar of the bore tide, the dog's barking, Brandon's yells, slick silt sliding, the rushing surge of water and grinding ice, Nicole's screams, heavy breathing. Every sound is diegetic and captured by the phone's built-in microphone from the filming position. Absolutely no music, no score, no risers, no whooshes, no cinematic bass hits.
+
+9. AUDIO REALISM
+Recorded as one live phone mic track: ambient cold-air quietness first (which makes the sudden event hit harder), then a real transient spike, mic overload crackle, and the room or landscape ringing out afterwards. Off-axis sounds are duller, close sounds are sharper. Exhales and gasps are audible, the animal's panting, barking, snorting or calls are species-true, and every footstep or impact lines up with the picture to the frame. Speech is unscripted, imperfect, with stumbles, swearing replaced by real-sounding exclamations, and natural accents for the region.
+
+10. 4K/8K VISUAL QUALITY ENHANCEMENT
+Even if the render is 1080p, it must deliver a premium 4K/8K-grade feel: razor-sharp micro-detail in the Chesapeake mix's wavy brown coat caked in grey glacial silt, sticky grey mud with a shiny wet surface, stranded ice blocks, the bore tide's churning grey water; individual snowflakes, ice crystals and spindrift resolved in the air; realistic skin with pores, fine facial hair, cold-reddened cheeks, chapped lips and visible breath vapor; true fabric weave on knit hats, nylon shells, fleece and denim; accurate contact shadows under boots, paws and hooves; natural depth with gentle phone-lens background falloff; clean edges with no oversharpening halos, no smearing, no waxy smoothing and no noise-reduction mush. Lighting is physically motivated by the real sky, sun and practical light sources only, with correct specular highlights on ice and wet surfaces. Targeting Seedance 2.5-level realism through Seedance 2.0.
+
+11. REALISM AND CONTINUITY
+Brandon's red jacket stays and he stays with one boot; Bear's blue harness and lead stay; the boot stays lost; the tide keeps rising. Physics must be correct: snow and ice crack, slide and fall with real weight, momentum and debris that scatters and settles; near-freezing water looks dark, heavy and slushy; nothing floats, morphs or reverses. Human anatomy is correct at all times — five fingers per hand, natural joint limits, believable balance, real slips, stumbles and recoveries. Animal behavior is species-accurate in gait, ear and tail signals, vocalizations and reactions; the animal never acts like a trained movie actor or a cartoon. Footprints, paw prints and disturbed snow persist once made. Breath vapor appears with exhales in the cold. Time of day, light direction and weather stay consistent for all 15 seconds.
+
+12. AVOID
+Plastic or waxy skin, airbrushed faces, doll eyes, animated or rubbery bodies, extra or fused fingers, warped limbs, morphing faces, changing outfits, shifting animal markings, CGI-looking snow, fake particle snow, glossy video-game ice, unnatural slow motion, cinematic music, title text, subtitles, watermarks, logos, lens dirt overlays, film grain filters, teal-orange grading, over-saturated colors, drone shots, impossible camera moves, perfect studio lighting, humans or animals floating, objects passing through each other, physics that reverses, professional rescue crews, uniforms, sirens, helicopters, staged hero poses, gore, blood or graphic injury. Also avoid: Brandon drowning, a CGI tsunami, quicksand cartoon effects, cinematic music.
+```
+
+<a id="prompt-089"></a>
+## Prompt 089 — Ice Cave Ceiling Drops Behind Them in the Glacier — Mendenhall Glacier, Juneau, Alaska
+
+```text
+1. FORMAT
+Vertical 9:16 smartphone video, 1080x1920, 60fps, exactly 15.0 seconds, one continuous real-time take with no cuts, no slow motion, no speed ramps and no transitions. Native in-camera audio only — no music, no voice-over, no captions, no on-screen text, no logos, no watermark. It must read as a real clip filmed by an ordinary person in the moment and posted unedited.
+
+2. LOOK
+Bright winter day in February, -2°C outside, intense blue light filtering through the ice ceiling, dripping water echoing, cold damp air. Looks exactly like an unedited clip straight off a modern iPhone or Pixel: auto white balance drifting slightly cooler in shade and warmer near artificial light, highlight roll-off on sunlit snow, honest contrast, occasional lens flare only when a real light source enters frame, natural softness at the extreme edges of the lens. Skin shows real texture, redness from the cold and dry, chapped lips. Nothing stylized, nothing graded, nothing glossy.
+
+3. CAMERA
+Malik films handheld from behind Tessa in the cave, framing her and Luna walking forward beneath the glowing blue ceiling. Imperfect amateur camerawork that sells authenticity: slight tilt, uneven headroom, quick reframing, a moment of the camera pointing at the snow or sky while the operator moves, then snapping back to the subject. Autofocus locks on the closest high-contrast object and occasionally racks between foreground snowflakes and the subject. Motion blur appears naturally on fast movement at a 1/60–1/120 phone shutter.
+
+4. LOCATION
+Inside an ice cave at the edge of Mendenhall Glacier near Juneau, Alaska: a tunnel of deep translucent blue ice with scalloped walls, meltwater dripping, a gravel-and-ice floor, the cave mouth opening to frozen Mendenhall Lake.
+
+5. CHARACTERS
+Tessa Brooks, 30, white, curly red hair under a black beanie, yellow rain jacket, crampons, walking ahead deeper into the cave; her partner Malik Johnson, 32, Black, grey beanie, black jacket, filming. Luna, their 4-year-old American Eskimo Dog — fluffy pure-white coat, black nose, pointed ears, plumed tail curled over her back, on a leash held by Tessa. Character consistency is locked: faces, body proportions, hairstyles, clothing colors, accessories and the animal's exact markings stay identical from the first frame to the last — no outfit changes, no face drift, no breed or coat changes.
+
+6. HOOK (00:00–00:02)
+00:00–00:01: Otherworldly — Tessa reaches up to touch the glowing ice ceiling, whispering, "It's like being inside a sapphire." 00:01–00:02: Luna suddenly yelps, spins, and bolts back toward the cave mouth, dragging Tessa with her, as a deep groan and crack echo through the ice above.
+
+7. TIMELINE
+00:00–00:01 — Tessa touches the scalloped blue ceiling, whispering; Luna sniffs the wet gravel floor.
+00:01–00:02 — Luna yelps and bolts toward the cave mouth, dragging Tessa backward; a deep groan cracks through the ice.
+00:02–00:03 — Tessa stumbles: "Luna! What—" Malik turns: "Go, go, go!" The camera swings.
+00:03–00:04 — They run toward the bright opening, crampons scraping on wet ice and gravel.
+00:04–00:05 — A chunk of ceiling ice breaks loose behind them and crashes onto the floor with a roar.
+00:05–00:06 — The camera swings back: blocks of blue ice smashing down where Tessa had been standing.
+00:06–00:07 — Ice dust and shards spray through the tunnel; the blue light flickers through the haze.
+00:07–00:08 — They burst out of the cave mouth onto the frozen lake surface, sliding to a stop.
+00:08–00:09 — Behind them the cave rumbles; more ice falls, partially collapsing the tunnel entrance.
+00:09–00:10 — Tessa sits on the ice, breathing hard, holding Luna's leash; Malik drops to his knees beside her.
+00:10–00:11 — The camera shows the cave mouth half-blocked by fallen blue ice blocks, dripping.
+00:11–00:12 — Tessa, shaking: "She ran before I heard anything. Before anything."
+00:12–00:13 — Luna shakes ice dust off her fluffy white coat and licks Tessa's chin.
+00:13–00:14 — Malik pans along the glacier face above the cave, cracks visible in the ice.
+00:14–00:15 — Clip ends on Tessa hugging Luna as meltwater drips from the broken ice at the cave mouth.
+
+8. SOUND DESIGN
+Echoing drips in the cave, crampons crunching, Tessa's whisper, the dog's sharp yelp, a deep groaning crack through glacier ice, a roaring collapse of ice blocks, shards skittering and echoing, running footsteps, heavy breathing, rumbling settling ice. Every sound is diegetic and captured by the phone's built-in microphone from the filming position. Absolutely no music, no score, no risers, no whooshes, no cinematic bass hits.
+
+9. AUDIO REALISM
+Authentic sound capture: the stillness of a snowy place (soft, dead acoustics because snow absorbs sound), distant natural background noise appropriate to the location, then sudden loud real-world sounds with proper attack and decay. The phone's noise suppression subtly pumps after loud sounds. People speak in quick fragments, breathing hard; the animal's sounds are recorded close and raw. No sweeteners, no Foley that does not match the action, no reverb that does not match the space.
+
+10. 4K/8K VISUAL QUALITY ENHANCEMENT
+Even if the render is 1080p, it must deliver a premium 4K/8K-grade feel: razor-sharp micro-detail in the American Eskimo Dog's fluffy pure-white coat, deep translucent blue glacier ice with scalloped walls and air bubbles, wet gravel and ice floor, falling ice dust glittering in blue light; individual snowflakes, ice crystals and spindrift resolved in the air; realistic skin with pores, fine facial hair, cold-reddened cheeks, chapped lips and visible breath vapor; true fabric weave on knit hats, nylon shells, fleece and denim; accurate contact shadows under boots, paws and hooves; natural depth with gentle phone-lens background falloff; clean edges with no oversharpening halos, no smearing, no waxy smoothing and no noise-reduction mush. Lighting is physically motivated by the real sky, sun and practical light sources only, with correct specular highlights on ice and wet surfaces. Targeting Seedance 2.5-level realism through Seedance 2.0.
+
+11. REALISM AND CONTINUITY
+Tessa's yellow jacket and black beanie stay; Luna's leash stays in Tessa's hand; the cave mouth stays partially blocked; blue light holds. Physics must be correct: snow and ice crack, slide and fall with real weight, momentum and debris that scatters and settles; near-freezing water looks dark, heavy and slushy; nothing floats, morphs or reverses. Human anatomy is correct at all times — five fingers per hand, natural joint limits, believable balance, real slips, stumbles and recoveries. Animal behavior is species-accurate in gait, ear and tail signals, vocalizations and reactions; the animal never acts like a trained movie actor or a cartoon. Footprints, paw prints and disturbed snow persist once made. Breath vapor appears with exhales in the cold. Time of day, light direction and weather stay consistent for all 15 seconds.
+
+12. AVOID
+Plastic or waxy skin, airbrushed faces, doll eyes, animated or rubbery bodies, extra or fused fingers, warped limbs, morphing faces, changing outfits, shifting animal markings, CGI-looking snow, fake particle snow, glossy video-game ice, unnatural slow motion, cinematic music, title text, subtitles, watermarks, logos, lens dirt overlays, film grain filters, teal-orange grading, over-saturated colors, drone shots, impossible camera moves, perfect studio lighting, humans or animals floating, objects passing through each other, physics that reverses, professional rescue crews, uniforms, sirens, helicopters, staged hero poses, gore, blood or graphic injury. Also avoid: the couple getting crushed, CGI glacier ice, the dog glowing, cinematic music.
+```
+
+<a id="prompt-090"></a>
+## Prompt 090 — Great Dane Yanks the Boy Off the Sidewalk as the Car Slides Down the Ice — Pittsburgh, Pennsylvania
+
+```text
+1. FORMAT
+Vertical 9:16 smartphone video, 1080x1920, 30fps, exactly 15.0 seconds, one continuous real-time take with no cuts, no slow motion, no speed ramps and no transitions. Native in-camera audio only — no music, no voice-over, no captions, no on-screen text, no logos, no watermark. It must read as a real clip filmed by an ordinary person in the moment and posted unedited.
+
+2. LOOK
+Early morning in January after an overnight freezing rain, -3°C, the entire street glazed with clear ice, grey light, streetlights still on, everything glistening. Documentary-real phone footage: exposure set by the phone's auto mode so snow sits just below clipping and shadows hold a little noise; colors are muted and natural, never saturated; breath vapor catches the light; snow surfaces show wind ripples, sastrugi, boot holes and blue shadow. No color grade, no filters, no artificial glow, no dreamy haze, no sharpening halos.
+
+3. CAMERA
+Tanya films handheld from the front stoop, framing Marcus walking down the steep icy sidewalk with Titan, a parked silver sedan above him on the street. Authentic handheld behavior throughout: micro-jitter from cold hands, breathing sway, footsteps transmitted into the frame, a brief autofocus hunt when the subject moves fast, exposure re-adjusting as the lens swings from bright snow to darker subjects, a 3–8 degree horizon tilt during the panic, and one fast whip-pan blur that resolves naturally. Standard phone main lens (about 26mm equivalent), no zoom pumping, no gimbal-smooth gliding, no drone-like motion.
+
+4. LOCATION
+A steep residential street in Pittsburgh's South Side Slopes, Pennsylvania: narrow brick row houses stacked up the hillside, a concrete sidewalk with metal handrails, cars parked along a street that drops at a dramatic angle, the city skyline and rivers far below.
+
+5. CHARACTERS
+Marcus Bell, 11, Black, red hoodie under a black puffy jacket, backpack, walking down the sidewalk to school; his mom Tanya Bell, 38, Black, braids pulled back, purple scarf, filming from the front stoop of their row house. Titan, the family's 4-year-old blue Great Dane — enormous, sleek slate-grey coat, cropped-free floppy ears, long legs, a black harness, on a leash held by Marcus. Character consistency is locked: faces, body proportions, hairstyles, clothing colors, accessories and the animal's exact markings stay identical from the first frame to the last — no outfit changes, no face drift, no breed or coat changes.
+
+6. HOOK (00:00–00:02)
+00:00–00:01: Morning routine — Marcus waves back at his mom, shouting, "Bye, Mom!" as Titan trots beside him. 00:01–00:02: A parked car up the street suddenly breaks loose on the ice and starts sliding silently down the steep hill toward the sidewalk where Marcus is walking.
+
+7. TIMELINE
+00:00–00:01 — Marcus waves back, grinning, Titan trotting beside him on the icy sidewalk.
+00:01–00:02 — A parked silver sedan breaks loose up the street and slides silently down toward him.
+00:02–00:03 — Tanya screams "Marcus! Car!" The camera jerks toward the sliding car.
+00:03–00:04 — Titan stops, ears up, and leaps sideways onto the row house steps, yanking Marcus with him.
+00:04–00:05 — Marcus is pulled off his feet onto the concrete steps, landing beside the giant dog.
+00:05–00:06 — The sedan slides past, skidding sideways, and slams into the sidewalk railing exactly where Marcus was.
+00:06–00:07 — The railing bends with a metallic crash; the car keeps sliding, bumping parked cars below.
+00:07–00:08 — Ice shards and glass from a shattered taillight scatter across the sidewalk.
+00:08–00:09 — Tanya runs down the icy steps, the camera bouncing wildly: "Are you okay?"
+00:09–00:10 — Marcus sits on the steps, clutching Titan's leash, staring at the car.
+00:10–00:11 — The sedan stops against a parked SUV halfway down the hill, its rear end crumpled.
+00:11–00:12 — Titan licks Marcus's face, his huge tail wagging slowly.
+00:12–00:13 — Marcus, voice shaking: "Titan jumped. He jumped and pulled me."
+00:13–00:14 — Tanya kneels and hugs both of them, crying: "Good boy, Titan. Good boy."
+00:14–00:15 — Clip ends on the bent railing and the sliding tire tracks on the glazed street below.
+
+8. SOUND DESIGN
+Quiet icy morning, Marcus's voice, the Great Dane's claws on ice, a silent slide then tires skidding, Tanya's scream, a metallic crash of bending railing, glass shattering, car bumpers thudding, heavy breathing, a car alarm, Tanya crying. Every sound is diegetic and captured by the phone's built-in microphone from the filming position. Absolutely no music, no score, no risers, no whooshes, no cinematic bass hits.
+
+9. AUDIO REALISM
+Phone-mic characteristics: slightly compressed dynamic range, low-frequency wind rumble whenever gusts hit the microphone, a brief digital clip and automatic gain duck on the loudest crash followed by natural recovery. Voices are close and uneven in level — the operator's voice is loudest and distorts a little when shouting, others sound farther and airier. Breathing, nylon jacket swish, boot crunch and the animal's vocalizations are spatially correct and perfectly in sync with on-screen action. Dialogue is short, overlapping, natural North American English, with real fear and real relief, never movie lines.
+
+10. 4K/8K VISUAL QUALITY ENHANCEMENT
+Even if the render is 1080p, it must deliver a premium 4K/8K-grade feel: razor-sharp micro-detail in the Great Dane's sleek slate-grey coat and enormous build, clear glaze ice on asphalt and concrete, crumpled silver car metal and taillight shards, red brick row house steps; individual snowflakes, ice crystals and spindrift resolved in the air; realistic skin with pores, fine facial hair, cold-reddened cheeks, chapped lips and visible breath vapor; true fabric weave on knit hats, nylon shells, fleece and denim; accurate contact shadows under boots, paws and hooves; natural depth with gentle phone-lens background falloff; clean edges with no oversharpening halos, no smearing, no waxy smoothing and no noise-reduction mush. Lighting is physically motivated by the real sky, sun and practical light sources only, with correct specular highlights on ice and wet surfaces. Targeting Seedance 2.5-level realism through Seedance 2.0.
+
+11. REALISM AND CONTINUITY
+Marcus's red hoodie and backpack stay; Titan's black harness and leash stay; the bent railing remains; the car stays crashed against the SUV; grey morning light holds. Physics must be correct: snow and ice crack, slide and fall with real weight, momentum and debris that scatters and settles; near-freezing water looks dark, heavy and slushy; nothing floats, morphs or reverses. Human anatomy is correct at all times — five fingers per hand, natural joint limits, believable balance, real slips, stumbles and recoveries. Animal behavior is species-accurate in gait, ear and tail signals, vocalizations and reactions; the animal never acts like a trained movie actor or a cartoon. Footprints, paw prints and disturbed snow persist once made. Breath vapor appears with exhales in the cold. Time of day, light direction and weather stay consistent for all 15 seconds.
+
+12. AVOID
+Plastic or waxy skin, airbrushed faces, doll eyes, animated or rubbery bodies, extra or fused fingers, warped limbs, morphing faces, changing outfits, shifting animal markings, CGI-looking snow, fake particle snow, glossy video-game ice, unnatural slow motion, cinematic music, title text, subtitles, watermarks, logos, lens dirt overlays, film grain filters, teal-orange grading, over-saturated colors, drone shots, impossible camera moves, perfect studio lighting, humans or animals floating, objects passing through each other, physics that reverses, professional rescue crews, uniforms, sirens, helicopters, staged hero poses, gore, blood or graphic injury. Also avoid: the boy getting hit, a CGI car, unrealistic car physics, the dog acting like a movie hero, slow motion.
 ```
